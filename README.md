@@ -61,7 +61,7 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/samoody1" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/samoody" target="_blank">GitHub Wrapped</a></td>
  <td align="center">:watch: <a href="https://wakatime.com/@samoody">WakaTime</a></td>
 </tr>
 <tr>
