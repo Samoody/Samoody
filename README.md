@@ -167,3 +167,11 @@
 </div>
 
 -----
+
+
+<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=samoody"/>
+<img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/samoody?style=social"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/samoody/samoody?logo=git"/>
+<a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+</div>
