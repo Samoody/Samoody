@@ -28,8 +28,6 @@
 </td>-->
 <td><a href="https://discordapp.com/users/djc4" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
