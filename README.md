@@ -124,3 +124,6 @@
 </div>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=isamoody)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=isamoody">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify">
+</a>
