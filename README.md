@@ -35,8 +35,6 @@
 
 -----
 
-<div>
-
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
@@ -46,13 +44,13 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samoody&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody1&theme=dark&locale=pt-br&langs_count=7"/>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody1&layout=pie&theme=dark&locale=pt-br"/>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/>
 </td>
 </tr>
 <tr>
@@ -61,15 +59,15 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/samoody" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@samoody">WakaTime</a></td>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
 </tr>
 <tr>
 <td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/samoody1/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=samoody1&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
@@ -83,24 +81,24 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samoody1&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsamoody1&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samoody1&theme=github_dark"/>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 </tr>
 <tr>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samoody1&theme=github_dark&utcOffset=8"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark&utcOffset=8"/>
 </td>
 <td>
-<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samoody1&theme=github_dark"/>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaopauloaramuni&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=samoody1&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
 <tr>
@@ -120,6 +118,74 @@
 </tr> 
 </table>
 
+</div>
+</div>
+
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>&nbsp;Veja mais
+</summary>
+<br />
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="2">:octocat: GitHub Metrics</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.classic.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.stars.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.activity.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.people.followers.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.plugin.stargazers.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="metrics.plugin.topics.icons.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="metrics.terminal.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center">:octocat: GitHub 5-Year Retrospective</td>
+</tr>
+<tr>
+ <td align="center">
+  <img src="https://joaopauloaramuni.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
+ </td>
+</tr>
+</table>
+</div>
+
+</details>
+</div>
+----------------------------- Spotify 
 </div>
 </div>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=isamoody">
@@ -147,7 +213,7 @@
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
 </td>
 <td>
-<!-- <a href="https://twitter.com/c4_dj" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+<!-- <a href="https://twitter.com/c4_dj" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=samoody"/></a> -->
 <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
 </td>
 </tr>
