@@ -44,7 +44,7 @@
 </tr> 
 <tr>
 <td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samoody&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 </td>
 <td>
 <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/>
@@ -59,15 +59,15 @@
 </table>
 <table>
 <tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/joaopauloaramuni" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/samoody" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@samoody">WakaTime</a></td>
 </tr>
 <tr>
 <td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/joaopauloaramuni/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/samoody/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=aramuni&theme=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=samoody&theme=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@
 
 </details>
 </div>
------------------------------ Spotify 
+
 </div>
 </div>
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=isamoody">
