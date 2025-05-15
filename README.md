@@ -37,7 +37,7 @@
 
 <div>
 
-<img height="20" alt="GIF" src="https://samoody.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
 <table>
