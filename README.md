@@ -177,6 +177,9 @@
 <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/samoody?style=social"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/samoody/samoody?logo=git"/>
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black)](https://samoody.github.io/pix20.png)
+<a href="https://samoody.github.io/pix20.png" target="_blank">
+  <img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/>
+</a>
+
 
 
