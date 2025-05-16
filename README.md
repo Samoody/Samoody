@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
+</div>
+
 -----
 <div align="center">
 <table>
