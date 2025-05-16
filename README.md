@@ -78,7 +78,7 @@
   <div align="center">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Spotify Card" width="400px"/>
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="200px" height="270px"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10" width="200px" height="270px"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody=10" width="200px" height="270px"/>
     <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank">
       <img src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400" alt="Last.fm" width="400px"/>
     </a>
