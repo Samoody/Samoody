@@ -13,13 +13,13 @@
   <a href="mailto:samuelmoody679@gmail.com" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/55319939385383" target="_blank">
+  <a href="https://wa.me/5531993938538" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
   </a>
-  <a href="https://www.instagram.com/samucazz/" target="_blank">
+  <a href="https://www.instagram.com//" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/samoody1/" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px" alt="LinkedIn"/>
   </a>
   <a href="https://discordapp.com/users/djc4" target="_blank">
