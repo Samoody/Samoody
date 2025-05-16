@@ -38,29 +38,24 @@
 </div>
 
 ---
-
 ## 🚀 Atividade e Produtividade
 
 <div align="center">
-  <a href="https://www.githubwrapped.io/samoody" target="_blank">:octocat: GitHub Wrapped</a> • 
-  <a href="https://wakatime.com/@samoody" target="_blank">:watch: WakaTime</a>
+  <a href="https://www.githubwrapped.io/samoody" target="_blank">:octocat: GitHub Wrapped</a> •
+  <a href="https://wakatime.com/@samoody" target="_blank">🐧 WakaTime</a>
 </div>
 
-<div align="center">
-  <img src="https://api.githubtrends.io/user/svg/samoody/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samoody&theme=dark&layout=compact"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samoody&theme=github_dark" width="200px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samoody&theme=github_dark" width="200px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samoody&theme=github_dark" width="420px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark&locale=pt-br" width="400px"/>
+  <img src="https://streak-stats.demolab.com?user=samoody&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="400px"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samoody&theme=github_dark&utcOffset=8" width="200px"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samoody&theme=github_dark" width="200px"/>
-  <img src="https://streak-stats.demolab.com?user=samoody&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="420px"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samoody&theme=dark&layout=compact" width="800px"/>
 </div>
 
 ---
