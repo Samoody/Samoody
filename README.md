@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://www.githubwrapped.io/samoody" target="_blank">:octocat: GitHub Wrapped</a> •
-  <a href="https://wakatime.com/@samoody" target="_blank">🐧 WakaTime</a>
+  <a href="https://wakatime.com/@Samoody" target="_blank">🐧 WakaTime</a>
 </div>
 
 <br/>
