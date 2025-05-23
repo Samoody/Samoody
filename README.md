@@ -63,10 +63,10 @@
 ## 🐍 Contribuições animadas
 
 
-
 <div align="center">
-  <img alt="snake animation" src="https://github.com/samoody/samoody/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://github.com/samoody/samoody/blob/output/github-contribution-grid-snake.gif"/>
 </div>
+
 
 
 ---
