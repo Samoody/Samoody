@@ -60,13 +60,12 @@
 
 ---
 
-## 🐍 Contribuições animadas
-
+## 🐍 Snake contributions
 
 <div align="center">
-  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
-    <img alt="Snake animation" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/samoody/samoody/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</div>
+
 
 
 
