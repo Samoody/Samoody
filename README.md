@@ -64,8 +64,9 @@
 
 
 <div align="center">
-  <img alt="snake animation" src="https://github.com/samoody/samoody/blob/output/github-contribution-grid-snake.gif"/>
-</div>
+  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
+    <img alt="Snake animation" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/>
+  </a>
 
 
 
