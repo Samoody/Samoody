@@ -60,10 +60,11 @@
 
 ---
 
-## 🐍 Snake contributions
+
+## 🐍 Snake Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samoody/samoody/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/Samoody/Samoody/output/github-contribution-grid-snake.svg"/>
 </div>
 
 
