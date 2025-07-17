@@ -6,13 +6,14 @@
 
 ## 🎬 Séries e Filmes Favoritos
 
-- 🏀 Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://lineage.plaync.com/" target="_blank">Lineage</a>, <a href="https://blog.counter-strike.net/" target="_blank">Counter-Strike</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a> e ser DJ.<br />
+- 🎮 Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu Online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://lineage.plaync.com/" target="_blank">Lineage</a>, <a href="https://blog.counter-strike.net/" target="_blank">Counter-Strike</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a> e ser DJ.<br />
 - 📺 Minhas séries favoritas são <a href="https://www.imdb.com/title/tt0369179/" target="_blank">Two and a Half Men</a>, <a href="https://www.imdb.com/title/tt0904208/" target="_blank">Californication</a>, <a href="https://www.imdb.com/title/tt0141842/" target="_blank">The Sopranos</a>, <a href="https://www.imdb.com/title/tt0460681/" target="_blank">Supernatural</a> e <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>.<br />
 - 🎥 Meus filmes favoritos são <a href="https://www.imdb.com/title/tt0068646/" target="_blank">The Godfather (O Poderoso Chefão)</a> e <a href="https://www.imdb.com/title/tt0076759/" target="_blank">Star Wars</a>.<br />
-- ⚽ Meu time favorito é o Flamengo <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Clube_de_Regatas_do_Flamengo_logo.svg" alt="Flamengo" width="20" height="20" />.<br />
-- 🏈 Também gosto de futebol americano <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/American_Football_icon.svg" alt="Futebol Americano" width="20" height="20" />.<br />
+- ❤️🖤 Meu time favorito é o Flamengo.<br />
+- 🏈 Também gosto de futebol americano.<br />
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - 📫 Para me encontrar, este é meu <a href="mailto:samoody679@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+
 
 ---
 
