@@ -78,7 +78,8 @@
 
 ---
 
-## 🎵 Spotify & Last.fm
+
+## 🎧 Spotify & Last.fm
 
 <details>
   <summary><img height="20" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
@@ -92,6 +93,7 @@
     </a>
   </div>
 </details>
+
 
 ---
 
