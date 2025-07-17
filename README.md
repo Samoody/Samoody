@@ -73,27 +73,33 @@
 ---
 
 ## 🎧 Spotify & Last.fm
-
-## 🎧 Spotify & Last.fm
-
+<div>
 <details>
-  <summary><img height="20" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
+  <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
   <br/>
-  <div align="center">
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=isamoody" target="_blank">
-      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify" width="400px"/>
-    </a>
-    <a href="https://open.spotify.com/user/isamoody" target="_blank">
-      <img alt="Spotify Profile" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-    </a>
-    <a href="https://open.spotify.com/user/isamoody" target="_blank">
-      <img alt="Spotify Recently Played" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"/>
-    </a>
-    <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank">
-      <img src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400" alt="Last.fm" width="400px"/>
-    </a>
-  </div>
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify" width="600px" style="display:block; margin-left:auto; margin-right:auto;"/>
 </details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+  <img alt="Spotify Profile" width="300px" height="405px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+  <img alt="Spotify Recently Played" width="300px" height="405px" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
 
 
 ---
