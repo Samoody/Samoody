@@ -1,98 +1,4 @@
-<div align="center">
-  <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
-</div>
-
----
-
-## 🎬 Séries e Filmes Favoritos
-
-- 🏀 Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://lineage.plaync.com/" target="_blank">Lineage</a>, <a href="https://blog.counter-strike.net/" target="_blank">Counter-Strike</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a> e ser DJ.<br />
-- 📺 Minhas séries favoritas são <a href="https://www.imdb.com/title/tt0369179/" target="_blank">Two and a Half Men</a>, <a href="https://www.imdb.com/title/tt0904208/" target="_blank">Californication</a>, <a href="https://www.imdb.com/title/tt0141842/" target="_blank">The Sopranos</a>, <a href="https://www.imdb.com/title/tt0460681/" target="_blank">Supernatural</a> e <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>.<br />
-- 🎥 Meus filmes favoritos são <a href="https://www.imdb.com/title/tt0068646/" target="_blank">The Godfather (O Poderoso Chefão)</a> e <a href="https://www.imdb.com/title/tt0076759/" target="_blank">Star Wars</a>.<br />
-- ⚽ Meu time favorito é o Flamengo <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Clube_de_Regatas_do_Flamengo_logo.svg" alt="Flamengo" width="20" height="20" />.<br />
-- 🏈 Também gosto de futebol americano <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/American_Football_icon.svg" alt="Futebol Americano" width="20" height="20" />.<br />
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- 📫 Para me encontrar, este é meu <a href="mailto:samoody679@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-
----
-
-## 🌐 Contatos
-
-<div align="center">
-  <a href="https://github.com/samoody" target="_blank">
-    <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px" alt="GitHub"/>
-  </a>
-  <a href="mailto:samuelmoody679@gmail.com" target="_blank">
-    <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/>
-  </a>
-  <a href="https://wa.me/5531993938538" target="_blank">
-    <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
-  </a>
-  <a href="https://www.instagram.com/samucazz/" target="_blank">
-    <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samoody1" target="_blank">
-    <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px" alt="LinkedIn"/>
-  </a>
-  <a href="https://discordapp.com/users/djc4" target="_blank">
-    <img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px" alt="Discord"/>
-  </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samoody&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&theme=dark&locale=pt-br&langs_count=7"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=pie&theme=dark&locale=pt-br"/>
-</div>
-
----
-
-## 🚀 Atividade e Produtividade
-
-<div align="center">
-  <a href="https://www.githubwrapped.io/samoody" target="_blank">:octocat: GitHub Wrapped</a> •
-  <a href="https://wakatime.com/@Samoody" target="_blank">🐧 WakaTime</a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark&locale=pt-br" width="400px"/>
-  <img src="https://streak-stats.demolab.com?user=samoody&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="400px"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samoody&theme=dark&layout=compact" width="800px"/>
-</div>
-
----
-
-## 🐍 Snake Contributions
-
-<div align="center">
-  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
-    <img alt="Snake animation" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/>
-  </a>
-</div>
-
----
-
-## 🎧 Spotify
-
-<div>
-<details>
-  <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
-  <br/>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify" 
-       style="display:block; margin-left:auto; margin-right:auto; max-width:100%; width:600px; height:auto;"/>
-</details>
-</div>
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
 
 <div align="center">
 <table>
@@ -101,41 +7,144 @@
 </tr> 
 <tr>
 <td>
-  <img alt="Spotify Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-       style="width:100%; max-width:300px; height:auto;"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samoody&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
 </td>
 <td>
-  <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user_id=isamoody&count=10" 
-       style="width:100%; max-width:300px; height:auto;"/>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=pie&theme=dark&locale=pt-br"/>
 </td>
 </tr>
 <tr>
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+<table>
+<tr>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/samoody" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@Samoody" target="_blank">WakaTime</a></td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/samoody/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=samoody&theme=dark&layout=compact"/>
+</td>
+</tr>
+<tr>
+ <td align="center"></td>
+ <td align="center"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samoody&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samoody&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samoody&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samoody&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samoody&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=samoody&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
+</table>
+
+<table>
+<tr>
+ <td align="center"></td>
+</tr>
+<tr>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+</tr>
+<tr>
+ <td align="center"></td>
+</tr> 
+</table>
+
+</div>
 </div>
 
----
-
-## 🎵 Música em destaque
-
+<div>
 <details>
-<summary>:headphones: :guitar: :drum:</summary>
-
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
-</details>
-
----
-
-## 📈 Métricas do perfil
+<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>&nbsp;Veja mais
+</summary>
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samoody" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/samoody?style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/samoody?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/samoody/samoody?logo=git" alt="Forks"/>
-  <a href="https://samoody.github.io/pix20.png" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
-  </a>
+<table>
+<tr>
+ <td align="center" colspan="2">:octocat: GitHub Metrics</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.classic.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stars.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.activity.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.people.followers.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stargazers.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.topics.icons.svg" alt="Metrics">
+</td>
+<td>
+<img width="400px" src="https://joaopauloaramuni.github.io/metrics.terminal.svg" alt="Metrics">
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center">:octocat: GitHub 5-Year Retrospective</td>
+</tr>
+<tr>
+ <td align="center">
+  <img src="https://joaopauloaramuni.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
+ </td>
+</tr>
+</table>
+</div>
+
+</details>
 </div>
