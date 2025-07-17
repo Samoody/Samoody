@@ -101,27 +101,13 @@
 
 ## 🎧 Spotify
 
-<div>
-<details>
-  <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
-  <br/>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify" 
-       style="display:block; margin-left:auto; margin-right:auto; max-width:100%; width:600px; height:auto;"/>
-</details>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-  <img alt="Spotify Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-       style="width:100%; max-width:300px; height:auto;"/>
-</td>
-<td>
- <img alt="Spotify Recently Played" src="!![LAST PLAYED]((https://spotify-recently-played-readme.vercel.app/api?user=isamoody)  
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=isamoody">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify">
+</a>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=isamoody)  
 
 "/>
 
