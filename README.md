@@ -20,22 +20,22 @@
 
 <div align="center">
   <a href="https://github.com/samoody" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" height="50px" alt="GitHub"/>
+    <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px" alt="GitHub"/>
   </a>
   <a href="mailto:samuelmoody679@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50px" height="50px" alt="Gmail"/>
+    <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/>
   </a>
   <a href="https://wa.me/5531993938538" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="50px" height="50px" alt="WhatsApp"/>
+    <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px" alt="WhatsApp"/>
   </a>
   <a href="https://www.instagram.com/samucazz/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50px" height="50px" alt="Instagram"/>
+    <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/samoody1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50px" height="50px" alt="LinkedIn"/>
+    <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px" alt="LinkedIn"/>
   </a>
   <a href="https://discordapp.com/users/djc4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="50px" height="50px" alt="Discord"/>
+    <img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px" alt="Discord"/>
   </a>
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/samoody/samoody/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/>
   </a>
 </div>
 
@@ -87,7 +87,7 @@
 
 <div>
 <details>
-  <summary><img height="20" alt="GIF" src="https://raw.githubusercontent.com/samoody/samoody/main/spotify.gif"/> Sam Moody's Spotify Data</summary>
+  <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
   <br/>
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify" 
        style="display:block; margin-left:auto; margin-right:auto; max-width:100%; width:600px; height:auto;"/>
@@ -138,4 +138,4 @@
   <a href="https://samoody.github.io/pix20.png" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
   </a>
-</div>
+</div> 
