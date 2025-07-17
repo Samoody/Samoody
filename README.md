@@ -74,18 +74,36 @@
 
 ## 🎧 Spotify & Last.fm
 
+## 🎧 Spotify & Last.fm
+
 <details>
   <summary><img height="20" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
   <br/>
   <div align="center">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Spotify Card" width="400px"/>
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="200px" height="270px"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" width="200px" height="270px"/>
-    <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank">
+
+    <!-- Card 1: Data Card Spotify clicável -->
+    <a href="https://open.spotify.com/user/isamoody" target="_blank">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify" width="400px"/>
+    </a>
+
+    <!-- Card 2: Spotify Github Profile clicável -->
+    <a href="https://open.spotify.com/user/isamoody" target="_blank" style="margin-left: 10px;">
+      <img src="https://camo.githubusercontent.com/c0237418b18ce3eba83b684ae00694770051700ef9520b2e308f6a6857a3b420/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965773f7569643d6973616d6f6f647926636f7665725f696d6167653d74727565267468656d653d64656661756c742673686f775f6f66666c696e653d66616c7365266261636b67726f756e645f636f6c6f723d31323132313226696e7465726368616e67653d66616c7365" alt="Spotify GitHub Profile" width="200px" height="270px"/>
+    </a>
+
+    <!-- Card 3: Spotify Recently Played clicável -->
+    <a href="https://open.spotify.com/user/isamoody" target="_blank" style="margin-left: 10px;">
+      <img src="https://camo.githubusercontent.com/3052fbfb3fb34047dfa5a22939072773e2797e90113829477daf7f60d5a3f4d6/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d6973616d6f6f647926636f756e743d3130" alt="Spotify Recently Played" width="200px" height="270px"/>
+    </a>
+
+    <!-- Last.fm (do João, pode atualizar depois) -->
+    <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank" style="margin-left: 10px;">
       <img src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400" alt="Last.fm" width="400px"/>
     </a>
+
   </div>
 </details>
+
 
 ---
 ## 🎵 Música em destaque
