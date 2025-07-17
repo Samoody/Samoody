@@ -145,7 +145,7 @@
 ---
 
 ## 📈 Métricas do perfil
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=samoody" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/samoody?style=social" alt="Followers"/>
