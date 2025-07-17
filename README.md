@@ -1,4 +1,4 @@
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github-readme-stats.vercel.app/api/overview.svg" /> GitHub Stats:
 
 <div align="center">
 <table>
@@ -74,7 +74,7 @@
  <td align="center"></td>
 </tr>
 <tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://github.githubassets.com/images/modules/profile/linked-issue.svg"/></a></td>
 </tr>
 <tr>
  <td align="center"></td>
@@ -86,7 +86,7 @@
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>&nbsp;Veja mais
+<summary><img height="20" alt="GIF" src="https://github-readme-stats.vercel.app/api/overview.svg"/>&nbsp;Veja mais
 </summary>
 <br />
 
@@ -97,52 +97,23 @@
 </tr>
 <tr>
 <td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.classic.svg" alt="Metrics">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=samoody&show=stars,commits&theme=dark" alt="Metrics">
 </td>
 <td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stars.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.activity.svg" alt="Metrics">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=samoody&show=prs,issues&theme=dark" alt="Metrics">
 </td>
 </tr>
 <tr>
 <td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.people.followers.svg" alt="Metrics">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=samoody&show=followers,followings&theme=dark" alt="Metrics">
 </td>
 <td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stargazers.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.topics.icons.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.terminal.svg" alt="Metrics">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=samoody&show=commits_per_repo&theme=dark" alt="Metrics">
 </td>
 </tr>
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
- <td align="center">:octocat: GitHub 5-Year Retrospective</td>
-</tr>
-<tr>
- <td align="center">
-  <img src="https://joaopauloaramuni.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
- </td>
-</tr>
 </table>
 </div>
 
