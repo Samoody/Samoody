@@ -120,8 +120,7 @@
        style="width:100%; max-width:300px; height:auto;"/>
 </td>
 <td>
-<img alt="Spotify Recently Played" src=" ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user_id=isamoody&count=10" style="width:100%; max-width:300px; height:auto;"/>
-
+  <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user_id=isamoody&count=10" style="width:100%; max-width:300px; height:auto;"/>
 </td>
 </tr>
 <tr>
@@ -129,6 +128,7 @@
 </tr> 
 </table>
 </div>
+
 
 
 
