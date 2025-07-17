@@ -99,7 +99,6 @@
 
 ---
 ## 🎧 Spotify
-
 <div>
 <details>
   <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
@@ -112,20 +111,15 @@
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-  <img alt="Spotify Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-       style="width:100%; max-width:300px; height:auto;"/>
-</td>
-<td>
-  <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user_id=isamoody&count=10" style="width:100%; max-width:300px; height:auto;"/>
-</td>
+  <td align="center">
+    <img alt="Spotify Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+         style="width:100%; max-width:300px; height:auto;"/>
+  </td>
+  <td align="center">
+    <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" 
+         style="width:100%; max-width:300px; height:auto;"/>
+  </td>
 </tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
 </table>
 </div>
 
