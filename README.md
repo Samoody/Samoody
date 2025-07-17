@@ -4,6 +4,20 @@
 
 ---
 
+## 👨‍💻 Sobre mim
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150px"/>
+</div>
+
+- 🔥 Flamenguista apaixonado
+- 📺 Viciado em séries como **Two and a Half Men**, **Californication** e **The Sopranos**
+- 🎬 Amante do cinema, especialmente **Star Wars** e **O Poderoso Chefão**
+- 💻 Desenvolvedor focado em evolução constante e boas práticas
+- 🚀 Engrenando nos estudos em Engenharia de Dados e novas tecnologias
+
+---
+
 ## 🌐 Contatos
 
 <div align="center">
@@ -32,27 +46,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samoody&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&theme=dark&locale=pt-br&langs_count=7"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=pie&theme=dark&locale=pt-br"/>
-</div>
-
----
-## 🚀 Atividade e Produtividade
-
-<div align="center">
-  <a href="https://www.githubwrapped.io/samoody" target="_blank">:octocat: GitHub Wrapped</a> •
-  <a href="https://wakatime.com/@Samoody" target="_blank">🐧 WakaTime</a>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark&locale=pt-br" width="400px"/>
   <img src="https://streak-stats.demolab.com?user=samoody&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="400px"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&theme=dark&locale=pt-br&langs_count=7" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=pie&theme=dark&locale=pt-br" width="400px"/>
+</div>
+
+---
+
+## 🚀 Atividade e Produtividade
+
+<div align="center">
+  <a href="https://www.githubwrapped.io/samoody" target="_blank">👌 GitHub Wrapped</a> •
+  <a href="https://wakatime.com/@samoody" target="_blank">🐧 WakaTime</a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samoody&theme=dark&layout=compact" width="800px"/>
@@ -60,19 +70,15 @@
 
 ---
 
-
 ## 🐍 Snake Contributions
 
 <div align="center">
-  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
-    <img alt="Snake animation" src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/>
-  </a>
-
-
+  <img alt="Snake animation" src="https://github.com/samoody/samoody/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ---
 
-## 🎧 Spotify & Last.fm
+## 🎵 Spotify & Last.fm
 
 <details>
   <summary><img height="20" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
@@ -88,16 +94,15 @@
 </details>
 
 ---
-## 🎵 Música em destaque
+
+## 🎶 Música em destaque
 
 <details>
-<summary>:headphones: :guitar: :drum:</summary>
+<summary>🎥 :guitar: :drum:</summary>
 
 [Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
 
 </details>
-
-
 
 ---
 
@@ -112,21 +117,3 @@
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
   </a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
