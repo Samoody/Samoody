@@ -221,6 +221,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 </details>
 
 ---
+
 ## 📈 Métricas do perfil
 
 <div align="center">
