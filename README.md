@@ -1,6 +1,8 @@
 <div align="center">
   <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
 </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World%22);;Python+Developer;;Java+Backend+Developer;;Welcome+to+my+GitHub" />
+
 
 <h2 align="center">
 Backend Developer em formação • Java • Python • APIs
@@ -59,6 +61,15 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+---
+
+## 💻 Linguagens mais usadas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&langs_count=8&theme=dark"/>
 
 </div>
 
@@ -224,3 +235,9 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
   </a>
 </div>
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
