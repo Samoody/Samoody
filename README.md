@@ -175,9 +175,8 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 🏆 GitHub Trophies (corrigido)
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samoody&theme=darkhub&no-frame=true&row=1&column=3"/>
+<img src="https://github-profile-trophy.vercel.app/?username=samoody&theme=darkhub"/>
 </div>
-
 ---
 
 ## 🎧 Spotify
