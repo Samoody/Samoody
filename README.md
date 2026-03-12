@@ -14,6 +14,11 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+System...;Loading+Developer+Profile...;Java+%7C+Python+%7C+Backend+Developer;Welcome+to+my+GitHub+Profile" />
+
+</div>
 ---
 
 ## 👨‍💻 Sobre mim
@@ -132,6 +137,21 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
+## 📊 Developer Dashboard
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samoody&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samoody&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samoody&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samoody&theme=github_dark"/>
+
+</div>
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -156,6 +176,15 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
   <img src="https://streak-stats.demolab.com?user=samoody&theme=dark&locale=pt_BR" width="400px"/>
 </div>
 
+---
+
+## 🧠 Activity Radar
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=github-dark"/>
+
+</div>
 ---
 
 ## 📈 Contribuições em 3D
@@ -234,5 +263,6 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
   <a href="https://samoody.github.io/pix20.png" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=blue"/>
 </div>
 
