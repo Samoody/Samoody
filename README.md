@@ -32,5 +32,3 @@
 [00:07] > Live Coding Modules Online
 [00:08] > Spotify Data Fetched
 [00:09] > Matrix Terminal Ready
-<!-- Visitor Badge Azul --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=0d6efd"/> </div>
-<!-- Terminal Exit Message --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=17F77D&width=500&lines=//System+ShutDown+Complete;Volte+Sempre+Neo...;Keep+Hacking...;>_"/>
