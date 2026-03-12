@@ -82,7 +82,16 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 </div>
 
+
 ---
+
+## 🖥 Hacker Terminal
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700"/>
+
+</div>
 
 # 📊 GitHub Stats
 
@@ -106,6 +115,14 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
+## 🟢 Matrix Code
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="700"/>
+
+</div>
+
 # 🧠 Activity Graph
 
 <div align="center">
@@ -114,6 +131,15 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 </div>
 
+---
+
+## 💻 Live Coding
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="650"/>
+
+</div>
 ---
 
 # 🐍 Snake Contributions
