@@ -1,9 +1,7 @@
 <div align="center">
   <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=120&section=header"/>
 
-<!-- MATRIX HACKER EFFECT -->
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%"/>
 </div>
@@ -24,53 +22,59 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="700"/>
-
-</div>
 ---
 
-## 👨‍💻 Sobre mim
-- 🔊 DJ nas horas vagas e entusiasta de tecnologia.<br />
-- 🎮 Amante de jogos como <a href="https://muonline.webzen.com/pt" target="_blank">Mu Online</a>, <a href="https://www.tibia.com/" target="_blank">Tibia</a>, <a href="https://lineage.plaync.com/" target="_blank">Lineage</a> e <a href="https://blog.counter-strike.net/" target="_blank">Counter-Strike</a>.<br />
-- 📺 Fã de boas histórias em séries e filmes clássicos.<br />
-- ⚽ Meu time favorito é o Flamengo 🏆.<br />
-- 🏈 Também gosto de futebol americano!<br />
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- 📫 Para me encontrar, este é meu <a href="mailto:samoody679@gmail.com" target="_blank">e-mail</a> pessoal.<br />
+# 👨‍💻 Sobre mim
+
+- 💻 Desenvolvedor backend em formação  
+- 🎓 Estudante de Engenharia da Computação  
+- 🎧 DJ nas horas vagas  
+- 🎮 Fã de jogos clássicos online  
+- ⚽ Torcedor do Flamengo  
+- 💬 Gosto de aprender novas tecnologias e ajudar pessoas  
+- 📫 Contato: **samuelmoody679@gmail.com**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# 🚀 Projetos em destaque
 
-<div align="center">
+| Projeto | Tecnologias |
+|-------|-------------|
+| Sistema de Controle de Estoque | Java • MySQL |
+| API Caixa Eletrônico | Python |
+| Gerador de Relatórios Automáticos | Python |
+| Portfólio Web | HTML • CSS • JavaScript |
+
+---
+
+# 🛠️ Tecnologias
+
+### Backend
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+### Frontend
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<br>
+### Banco de dados
 
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### Ferramentas
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</div>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ---
 
-## 💻 Coding Animation
+# 💻 Coding Animation
 
 <div align="center">
 
@@ -78,7 +82,21 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 </div>
 
-## 💻 Linguagens mais usadas
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samoody&theme=dark"/>
+
+</div>
+
+---
+
+# 🧠 Linguagens mais usadas
 
 <div align="center">
 
@@ -88,44 +106,54 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | Tecnologias |
-|-------|-------------|
-| API REST de estudo | Java |
-| Automação de scripts | Python |
-| Página Web simples | HTML • CSS • JavaScript |
-
----
-
-## 🎬 Séries e Filmes Favoritos
-
-- 📺 Minhas séries favoritas são:<br />
-Two and a Half Men • Californication • The Sopranos • Supernatural • The IT Crowd
-
-- 🎥 Meus filmes favoritos são:<br />
-The Godfather • Star Wars
-
----
-
-## 🌐 Contatos
+# 🧠 Activity Graph
 
 <div align="center">
-  <a href="https://github.com/samoody">
-    <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px"/>
-  </a>
-  <a href="mailto:samuelmoody679@gmail.com">
-    <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px"/>
-  </a>
-  <a href="https://wa.me/5531993938538">
-    <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px"/>
-  </a>
-  <a href="https://www.instagram.com/samucazz/">
-    <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samoody1">
-    <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px"/>
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=github-dark"/>
+
+</div>
+
+---
+
+# 🐍 Snake Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Contatos
+
+<div align="center">
+
+<a href="https://github.com/samoody">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:samuelmoody679@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samoody1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5531993938538">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=blue"/>
+
 </div>
 
 ---
