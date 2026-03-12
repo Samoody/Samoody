@@ -9,8 +9,6 @@
 <img src="https://img.shields.io/badge/GitHub-Elite-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<!-- Matrix Terminal GIF -->
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="80%" style="border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; border-radius:10px;"/>
 
 <!-- Terminal Typing Intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+System...;Loading+Elite+Developer+Profile...;Initializing+Neo+Mode...;Welcome+Neo" />
