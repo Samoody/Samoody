@@ -209,12 +209,11 @@ The Godfather • Star Wars
 </details>
 
 
+
 ---
 
 ## 📈 Métricas do perfil
 ---
-
-## 📈 Métricas do perfil
 
 <div align="center">
 
@@ -232,6 +231,4 @@ The Godfather • Star Wars
 <a href="https://samoody.github.io/pix20.png" target="_blank">
 <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
 </a>
-
-</div>
 </div>
