@@ -164,7 +164,50 @@ The Godfather • Star Wars
 ---
 
 ## 🎧 Spotify
-(SEU BLOCO DO SPOTIFY CONTINUA IGUAL)
+
+<div>
+<details>
+  <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
+  <br/>
+  <div align="center">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify" 
+         style="max-width:600px; width:100%; height:auto; display:block; margin:auto;"/>
+  </div>
+</details>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding-right:20px;">
+        <img alt="Spotify Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+             style="max-width:300px; width:100%; height:auto;"/>
+      </td>
+      <td align="center" style="padding-left:20px;">
+        <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" 
+             style="max-width:300px; width:100%; height:auto;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+---
+
+## 🎵 Música em destaque
+
+<details>
+<summary>:headphones: :guitar: :drum:</summary>
+
+[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+
+</details>
+
 
 ---
 
