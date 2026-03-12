@@ -88,6 +88,15 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 </div>
 
+---
+
+## 🟢 Matrix Code
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700"/>
+
+</div>
 # 📊 GitHub Stats
 
 <div align="center">
