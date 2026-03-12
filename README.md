@@ -55,6 +55,8 @@
 - ⚽ Torcedor do Flamengo  
 - 💬 Gosto de aprender novas tecnologias e ajudar pessoas  
 - 📫 Contato: **samuelmoody679@gmail.com**
+---
+
 # 🎬 Séries e Filmes Favoritos
 
 📺 Séries:
@@ -68,7 +70,13 @@
 🎥 Filmes:
 
 - <a href="https://www.imdb.com/title/tt0068646/">The Godfather</a>  
-- <a href="https://www.imdb.com/title/tt0076759/">Star Wars</a>
+- <a href="https://www.imdb.com/title/tt0076759/">Star Wars</a>  
+- <a href="https://www.imdb.com/title/tt0055630/">Por um Punhado de Dólares</a>  
+- <a href="https://www.imdb.com/title/tt0064116/">Por Uns Dólares a Mais</a>  
+- <a href="https://www.imdb.com/title/tt0065126/">Três Homens em Conflito</a>  
+- <a href="https://www.imdb.com/title/tt0096895/">Batman</a>  
+- <a href="https://www.imdb.com/title/tt0477348/">Onde os Fracos Não Têm Vez</a>  
+- <a href="https://www.imdb.com/title/tt0117571/">Pânico</a>
 ---
 
 # 🚀 Projetos em destaque
