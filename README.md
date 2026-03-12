@@ -2,6 +2,16 @@
   <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
 </div>
 
+<h2 align="center">
+Backend Developer em formação • Java • Python • APIs
+</h2>
+
+<p align="center">
+Estudante de Engenharia da Computação focado em backend, APIs e desenvolvimento de software.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+
 ---
 
 ## 👨‍💻 Sobre mim
@@ -13,16 +23,6 @@
 - 🏈 Também gosto de futebol americano!<br />
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - 📫 Para me encontrar, este é meu <a href="mailto:samoody679@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-
----
-
-## 📚 Atualmente estudando
-
-- ☕ **Java para desenvolvimento backend**
-- 🐍 **Python para automação e scripts**
-- 🗄️ **SQL e bancos de dados**
-- 🧠 **Estruturas de Dados e Algoritmos**
-- 🔧 **Git e boas práticas de versionamento**
 
 ---
 
@@ -50,53 +50,62 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
+<br>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </div>
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🏦 Bank API | Simulação de operações bancárias como saque, depósito e transferência | Java |
-| 📦 Sistema de Estoque | Sistema simples para cadastro e controle de produtos | Java + MySQL |
-| 📊 Gerador de Relatórios | Script que gera relatórios automáticos | Python |
-| 🌐 Portfólio Web | Página web apresentando projetos | HTML, CSS, JavaScript |
+| Projeto | Tecnologias |
+|-------|-------------|
+| API REST de estudo | Java |
+| Automação de scripts | Python |
+| Página Web simples | HTML • CSS • JavaScript |
 
 ---
 
 ## 🎬 Séries e Filmes Favoritos
 
 - 📺 Minhas séries favoritas são:<br />
-  <a href="https://www.imdb.com/title/tt0369179/">Two and a Half Men</a>, 
-  <a href="https://www.imdb.com/title/tt0904208/">Californication</a>, 
-  <a href="https://www.imdb.com/title/tt0141842/">The Sopranos</a>, 
-  <a href="https://www.imdb.com/title/tt0460681/">Supernatural</a> e 
-  <a href="https://www.imdb.com/title/tt0487831/">The IT Crowd</a>.
+  <a href="https://www.imdb.com/title/tt0369179/" target="_blank">Two and a Half Men</a>, 
+  <a href="https://www.imdb.com/title/tt0904208/" target="_blank">Californication</a>, 
+  <a href="https://www.imdb.com/title/tt0141842/" target="_blank">The Sopranos</a>, 
+  <a href="https://www.imdb.com/title/tt0460681/" target="_blank">Supernatural</a> e 
+  <a href="https://www.imdb.com/title/tt0487831/" target="_blank">The IT Crowd</a>.<br />
 
 - 🎥 Meus filmes favoritos são:<br />
-  <a href="https://www.imdb.com/title/tt0068646/">The Godfather</a> e 
-  <a href="https://www.imdb.com/title/tt0076759/">Star Wars</a>.
+  <a href="https://www.imdb.com/title/tt0068646/" target="_blank">The Godfather (O Poderoso Chefão)</a> e 
+  <a href="https://www.imdb.com/title/tt0076759/" target="_blank">Star Wars</a>.<br />
 
 ---
 
 ## 🌐 Contatos
 
 <div align="center">
-  <a href="https://github.com/samoody">
-    <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px"/>
+  <a href="https://github.com/samoody" target="_blank">
+    <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/>
   </a>
   <a href="mailto:samuelmoody679@gmail.com">
-    <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px"/>
+    <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/>
   </a>
   <a href="https://wa.me/5531993938538">
-    <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px"/>
+    <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/>
   </a>
   <a href="https://www.instagram.com/samucazz/">
-    <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px"/>
+    <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/>
   </a>
   <a href="https://www.linkedin.com/in/samoody1">
-    <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px"/>
+    <img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/>
   </a>
 </div>
 
@@ -112,11 +121,21 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=samoody&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
 ## 🚀 Atividade e Produtividade
 
 <div align="center">
-  <a href="https://www.githubwrapped.io/samoody">GitHub Wrapped</a> •
-  <a href="https://wakatime.com/@Samoody">WakaTime</a>
+  <a href="https://www.githubwrapped.io/samoody">:octocat: GitHub Wrapped</a> •
+  <a href="https://wakatime.com/@Samoody">🐧 WakaTime</a>
 </div>
 
 <br/>
@@ -128,39 +147,23 @@
 
 ---
 
+## 📈 Contribuições em 3D
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/samoody/samoody/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
 ## 🐍 Snake Contributions
 
 <div align="center">
-<img src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/>
+  <img src="https://joaopauloaramuni.github.io/image/github-user-contribution.svg?raw=true"/>
 </div>
 
 ---
 
 ## 🎧 Spotify
-
-<details>
-<summary>Sam Moody's Spotify Data</summary>
-
-<br>
-
-<div align="center">
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody"/>
-</div>
-
-</details>
-
----
-
-## 📈 Métricas do perfil
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=Foi+um+prazer+ter+voc%C3%AA+por+aqui!;Volte+sempre!" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=samoody"/>
-<img src="https://img.shields.io/github/followers/samoody?style=social"/>
-<img src="https://img.shields.io/github/stars/samoody?style=social"/>
-
-</div>
+(SEU BLOCO DO SPOTIFY CONTINUA EXATAMENTE IGUAL AQUI)
