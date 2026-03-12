@@ -46,10 +46,6 @@
 
 ---
 
-<h2 align="center">
-<span style="color:#00FF00">💻 Backend Developer em formação • Java • Python • APIs</span>
-</h2>
-
 <p align="center">
 Estudante de Engenharia da Computação focado em backend, APIs e desenvolvimento de software.
 </p>
