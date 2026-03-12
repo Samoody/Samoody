@@ -69,6 +69,14 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
+## 💻 Coding Animation
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="600"/>
+
+</div>
+
 ## 💻 Linguagens mais usadas
 
 <div align="center">
