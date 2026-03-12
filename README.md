@@ -110,11 +110,13 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ---
 
 
-## 🖥 Dev Terminal
+## ⚡ Developer Skills
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=samuel@dev:~$+git+clone+backend-api;samuel@dev:~$+cd+backend-api;samuel@dev:~$+docker+compose+up;samuel@dev:~$+java+-jar+api.jar;Server+running+on+port+8080;API+Ready+✓"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Java+Developer;Python+Developer;Backend+Engineer;API+Developer;Database+Enthusiast;Linux+User" />
+
+</div>
 
 </div>
 
