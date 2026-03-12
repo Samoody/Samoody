@@ -1,23 +1,26 @@
 <div align="center">
-  <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
-</div>
 
-<!-- Top 1% GitHub Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Top%201%25-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- Banner -->
+<img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
+
+<!-- Top 0.1% Hacker Badge -->
+<p>
+<img src="https://img.shields.io/badge/Hacker-Top%200.1%25-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-Elite-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%"/>
+<!-- Matrix Terminal GIF -->
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="80%" style="border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; border-radius:10px;"/>
+
+<!-- Terminal Typing Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+System...;Loading+Elite+Developer+Profile...;Initializing+Top+0.1%25+Stats...;Welcome+Neo" />
+
 </div>
 
-<!-- Terminal Hacker Intro Typing SVG -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+System...;Loading+Developer+Profile...;Java+%7C+Python+%7C+Backend+Developer;Welcome+Hacker" />
-</div>
+---
 
 <h2 align="center">
-<span style="color:#00FF00">Backend Developer em formação • Java • Python • APIs</span>
+<span style="color:#00FF00">💻 Backend Developer em formação • Java • Python • APIs</span>
 </h2>
 
 <p align="center">
@@ -77,7 +80,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 🖥 Hacker Terminal
 
 <div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="700" style="border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; border-radius:10px;"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="700" style="border: 4px solid #00FF00; box-shadow: 0 0 40px #00FF00; border-radius:10px;"/>
 </div>
 
 ---
@@ -90,10 +93,10 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
-## ⚡ Developer Skills
+## ⚡ Developer Skills (Hacker Mode)
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Java+Developer;Python+Developer;Backend+Engineer;API+Developer;Database+Enthusiast;Linux+User" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Java+Developer;Python+Developer;Backend+Engineer;API+Developer;Database+Enthusiast;Linux+User;Elite+Hacker"/>
 </div>
 
 ---
@@ -101,7 +104,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 🟢 Matrix Code
 
 <div align="center">
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="700" style="border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; border-radius:10px;"/>
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="700" style="border: 4px solid #00FF00; box-shadow: 0 0 40px #00FF00; border-radius:10px;"/>
 </div>
 
 ---
@@ -109,7 +112,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 # 🧠 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=dark"/>
 </div>
 
 ---
@@ -117,12 +120,12 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 💻 Live Coding
 
 <div align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="650" style="border: 4px solid #00FF00; box-shadow: 0 0 20px #00FF00; border-radius:10px;"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="650" style="border: 4px solid #00FF00; box-shadow: 0 0 25px #00FF00; border-radius:10px;"/>
 </div>
 
 ---
 
-# 🐍 Snake Contributions
+## 🐍 Snake Contributions
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -130,7 +133,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
-# 🌐 Contatos
+## 🌐 Contatos
 
 <div align="center">
 
@@ -155,7 +158,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=00FF00"/>
 </div>
 
 ---
@@ -169,34 +172,10 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
-## 📊 Developer Dashboard
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samoody&theme=github_dark"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=samoody&theme=darkhub&no-frame=true&row=1&column=7"/>
-</div>
-
----
-
-## 🧠 Activity Radar
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=github-dark"/>
-</div>
-
----
-
-## 🐍 Snake Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
@@ -214,23 +193,6 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 </details>
 </div>
 
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding-right:20px;">
-        <img alt="Spotify Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
-             style="max-width:300px; width:100%; height:auto;"/>
-      </td>
-      <td align="center" style="padding-left:20px;">
-        <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" 
-             style="max-width:300px; width:100%; height:auto;"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 🎵 Música em destaque
@@ -244,20 +206,8 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
-## 📈 Métricas do perfil
+## 📈 Mensagem de saída estilo hacker
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
-
-<br><br>
-<img src="https://img.shields.io/github/followers/samoody?style=social"/>
-<img src="https://img.shields.io/github/stars/samoody?style=social"/>
-<img src="https://img.shields.io/github/forks/samoody/samoody?logo=git"/>
-
-<br><br>
-
-<a href="https://samoody.github.io/pix20.png" target="_blank">
-<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/>
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=17F77D&width=500&lines=//System+ShutDown+Complete;Volte+Sempre+Neo...;Keep+Hacking...;>_"/>
 </div>
