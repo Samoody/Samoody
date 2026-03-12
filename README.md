@@ -166,4 +166,61 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ---
 
 ## 🎧 Spotify
-(SEU BLOCO DO SPOTIFY CONTINUA EXATAMENTE IGUAL AQUI)
+
+
+<div>
+<details>
+  <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Sam Moody's Spotify Data</summary>
+  <br/>
+  <div align="center">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" alt="Data Card for Spotify" 
+         style="max-width:600px; width:100%; height:auto; display:block; margin:auto;"/>
+  </div>
+</details>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding-right:20px;">
+        <img alt="Spotify Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+             style="max-width:300px; width:100%; height:auto;"/>
+      </td>
+      <td align="center" style="padding-left:20px;">
+        <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" 
+             style="max-width:300px; width:100%; height:auto;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+---
+
+## 🎵 Música em destaque
+
+<details>
+<summary>:headphones: :guitar: :drum:</summary>
+
+[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+
+</details>
+
+---
+
+## 📈 Métricas do perfil
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=samoody" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/samoody?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/samoody?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/samoody/samoody?logo=git" alt="Forks"/>
+  <a href="https://samoody.github.io/pix20.png" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
+  </a>
+</div>
