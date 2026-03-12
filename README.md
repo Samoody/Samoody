@@ -73,13 +73,6 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ---
-
-# 💻 Coding Animation
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="600"/>
-
 </div>
 
 
@@ -89,7 +82,9 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="700"/>
+
+
 
 </div>
 
@@ -132,6 +127,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 </div>
 
 ---
+
 
 ## 💻 Live Coding
 
