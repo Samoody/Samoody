@@ -19,7 +19,7 @@
 
 ---
 
-## 🖥️ Fake Terminal Hacker Mode
+## 🖥️ Terminal Hacker Mode
 
 ```bash
 [00:00] > Initializing system...
