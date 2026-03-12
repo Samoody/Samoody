@@ -1,10 +1,19 @@
 <div align="center">
 
+<!-- Banner -->
+<img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
+
+<!-- Top 0.1% Hacker Badge -->
+<p>
+<img src="https://img.shields.io/badge/Hacker-Top%200.1%25-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-Elite-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 <!-- Matrix Terminal GIF -->
 <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="80%" style="border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; border-radius:10px;"/>
 
 <!-- Terminal Typing Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+System...;Loading+Elite+Developer+Profile...;Initializing+Neo+Mode...;Welcome+Neo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+System...;Loading+Elite+Developer+Profile...;Initializing+Neo+Mode...;Welcome+Neo" />
 
 </div>
 
@@ -23,6 +32,40 @@
 [00:07] > Live Coding Modules Online
 [00:08] > Spotify Data Fetched
 [00:09] > Matrix Terminal Ready
+<!-- Visitor Badge Azul --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=0d6efd"/> </div>
+---
+<div align="center">
+
+<!-- Banner -->
+<img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
+
+<!-- Top 0.1% Hacker Badge -->
+<p>
+<img src="https://img.shields.io/badge/Hacker-Top%200.1%25-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-Elite-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<!-- Matrix Terminal GIF -->
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="80%" style="border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; border-radius:10px;"/>
+
+<!-- Terminal Typing Intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+System...;Loading+Elite+Developer+Profile...;Initializing+Top+0.1%25+Stats...;Welcome+Neo" />
+
+</div>
+
+---
+
+<h2 align="center">
+<span style="color:#00FF00">💻 Backend Developer em formação • Java • Python • APIs</span>
+</h2>
+
+<p align="center">
+Estudante de Engenharia da Computação focado em backend, APIs e desenvolvimento de software.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
+
+---
 
 # 👨‍💻 Sobre mim
 
