@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
 </div>
-
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=120&section=header"/>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World%22);;Python+Developer;;Java+Backend+Developer;;Welcome+to+my+GitHub"/>
 </div>
