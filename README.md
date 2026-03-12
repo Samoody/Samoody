@@ -2,6 +2,11 @@
   <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
 </div>
 
+<!-- MATRIX HACKER EFFECT -->
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+</div>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+System...;Loading+Developer+Profile...;Java+%7C+Python+%7C+Backend+Developer;Welcome+to+my+GitHub+Profile" />
@@ -20,6 +25,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
+## 👨‍💻 Sobre mim
 ## 👨‍💻 Sobre mim
 
 - 🔊 DJ nas horas vagas e entusiasta de tecnologia.<br />
@@ -210,10 +216,10 @@ The Godfather • Star Wars
 
 
 
+
 ---
 
 ## 📈 Métricas do perfil
----
 
 <div align="center">
 
@@ -222,13 +228,14 @@ The Godfather • Star Wars
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/samoody?style=social" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/samoody?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/samoody/samoody?logo=git" alt="Forks"/>
+<img src="https://img.shields.io/github/followers/samoody?style=social"/>
+<img src="https://img.shields.io/github/stars/samoody?style=social"/>
+<img src="https://img.shields.io/github/forks/samoody/samoody?logo=git"/>
 
 <br><br>
 
 <a href="https://samoody.github.io/pix20.png" target="_blank">
-<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
+<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/>
 </a>
+
 </div>
