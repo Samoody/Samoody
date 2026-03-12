@@ -240,7 +240,6 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 </a>
 
 </div>
----
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=17F77D&width=500&lines=//System+ShutDown+Complete;Volte+Sempre+Neo...;Keep+Hacking...;>_"/>
