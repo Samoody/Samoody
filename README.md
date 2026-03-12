@@ -23,6 +23,11 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="700"/>
+
+</div>
 ---
 
 ## 👨‍💻 Sobre mim
