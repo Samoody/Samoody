@@ -4,7 +4,7 @@
 
 <!-- MATRIX HACKER EFFECT -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%"/>
 </div>
 
 <div align="center">
@@ -26,8 +26,6 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ---
 
 ## 👨‍💻 Sobre mim
-## 👨‍💻 Sobre mim
-
 - 🔊 DJ nas horas vagas e entusiasta de tecnologia.<br />
 - 🎮 Amante de jogos como <a href="https://muonline.webzen.com/pt" target="_blank">Mu Online</a>, <a href="https://www.tibia.com/" target="_blank">Tibia</a>, <a href="https://lineage.plaync.com/" target="_blank">Lineage</a> e <a href="https://blog.counter-strike.net/" target="_blank">Counter-Strike</a>.<br />
 - 📺 Fã de boas histórias em séries e filmes clássicos.<br />
