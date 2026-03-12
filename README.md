@@ -32,5 +32,5 @@
 [00:07] > Live Coding Modules Online
 [00:08] > Spotify Data Fetched
 [00:09] > Matrix Terminal Ready
-<!-- Visitor Badge Azul --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=0d6efd"/> </div> <!-- Terminal Exit Message --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=17F77D&width=500&lines=//System+ShutDown+Complete;Volte+Sempre+Neo...;Keep+Hacking...;>_"/>
+ ```
 <h2 align="center"> <span style="color:#00FF00">💻 Backend Developer em formação • Java • Python • APIs</span> </h2> <p align="center"> Estudante de Engenharia da Computação focado em backend, APIs e desenvolvimento de software. </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
