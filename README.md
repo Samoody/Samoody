@@ -109,6 +109,15 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
+
+## 🖥 Dev Terminal
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=samuel@dev:~$+git+clone+backend-api;samuel@dev:~$+cd+backend-api;samuel@dev:~$+docker+compose+up;samuel@dev:~$+java+-jar+api.jar;Server+running+on+port+8080;API+Ready+✓"/>
+
+</div>
+
 ## 🟢 Matrix Code
 
 <div align="center">
