@@ -55,7 +55,20 @@
 - ⚽ Torcedor do Flamengo  
 - 💬 Gosto de aprender novas tecnologias e ajudar pessoas  
 - 📫 Contato: **samuelmoody679@gmail.com**
+# 🎬 Séries e Filmes Favoritos
 
+📺 Séries:
+
+- <a href="https://www.imdb.com/title/tt0369179/">Two and a Half Men</a>  
+- <a href="https://www.imdb.com/title/tt0904208/">Californication</a>  
+- <a href="https://www.imdb.com/title/tt0141842/">The Sopranos</a>  
+- <a href="https://www.imdb.com/title/tt0460681/">Supernatural</a>  
+- <a href="https://www.imdb.com/title/tt0487831/">The IT Crowd</a>
+
+🎥 Filmes:
+
+- <a href="https://www.imdb.com/title/tt0068646/">The Godfather</a>  
+- <a href="https://www.imdb.com/title/tt0076759/">Star Wars</a>
 ---
 
 # 🚀 Projetos em destaque
