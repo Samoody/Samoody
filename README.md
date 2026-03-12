@@ -172,10 +172,10 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (corrigido)
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samoody&theme=darkhub&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=samoody&theme=darkhub&no-frame=true&row=1&column=3"/>
 </div>
 
 ---
@@ -193,6 +193,22 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 </details>
 </div>
 
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding-right:20px;">
+        <img alt="Spotify Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+             style="max-width:300px; width:100%; height:auto;"/>
+      </td>
+      <td align="center" style="padding-left:20px;">
+        <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" 
+             style="max-width:300px; width:100%; height:auto;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ## 🎵 Música em destaque
@@ -210,4 +226,19 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=17F77D&width=500&lines=//System+ShutDown+Complete;Volte+Sempre+Neo...;Keep+Hacking...;>_"/>
+  <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+
+<br><br>
+<img src="https://img.shields.io/github/followers/samoody?style=social"/>
+<img src="https://img.shields.io/github/stars/samoody?style=social"/>
+<img src="https://img.shields.io/github/forks/samoody/samoody?logo=git"/>
+
+<br><br>
+
+<a href="https://samoody.github.io/pix20.png" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/>
+</a>
+
 </div>
