@@ -2,18 +2,22 @@
   <img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
 </div>
 
+<!-- Top 1% GitHub Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Top%201%25-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%"/>
 </div>
 
+<!-- Terminal Hacker Intro Typing SVG -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+System...;Loading+Developer+Profile...;Java+%7C+Python+%7C+Backend+Developer;Welcome+to+my+GitHub+Profile" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Initializing+System...;Loading+Developer+Profile...;Java+%7C+Python+%7C+Backend+Developer;Welcome+Hacker" />
 </div>
 
 <h2 align="center">
-Backend Developer em formação • Java • Python • APIs
+<span style="color:#00FF00">Backend Developer em formação • Java • Python • APIs</span>
 </h2>
 
 <p align="center">
@@ -50,51 +54,30 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 # 🛠️ Tecnologias
 
 ### Backend
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### Frontend
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 ### Banco de dados
-
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ### Ferramentas
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ---
-</div>
-
-
----
 
 ## 🖥 Hacker Terminal
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="700"/>
-
-
-</div>
------
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=samoody&theme=dark"/>
-
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="700" style="border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; border-radius:10px;"/>
 </div>
 
 ---
@@ -102,58 +85,47 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 # 🧠 Linguagens mais usadas
 
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&langs_count=8&theme=dark"/>
-
 </div>
 
 ---
-
 
 ## ⚡ Developer Skills
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=Java+Developer;Python+Developer;Backend+Engineer;API+Developer;Database+Enthusiast;Linux+User" />
-
-</div>
-
-</div>
-
-## 🟢 Matrix Code
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="700"/>
-
-</div>
-
-# 🧠 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=github-dark"/>
-
 </div>
 
 ---
 
+## 🟢 Matrix Code
+
+<div align="center">
+<img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="700" style="border: 4px solid #00FF00; box-shadow: 0 0 30px #00FF00; border-radius:10px;"/>
+</div>
+
+---
+
+# 🧠 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=github-dark"/>
+</div>
+
+---
 
 ## 💻 Live Coding
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="650"/>
-
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="650" style="border: 4px solid #00FF00; box-shadow: 0 0 20px #00FF00; border-radius:10px;"/>
 </div>
+
 ---
 
 # 🐍 Snake Contributions
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
 
 ---
@@ -183,9 +155,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=blue"/>
-
 </div>
 
 ---
@@ -193,10 +163,8 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samoody&theme=dark"/>
-
 </div>
 
 ---
@@ -204,9 +172,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 📊 Developer Dashboard
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samoody&theme=github_dark"/>
-
 </div>
 
 ---
@@ -214,9 +180,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=samoody&theme=darkhub&no-frame=true&row=1&column=7)
-
+<img src="https://github-profile-trophy.vercel.app/?username=samoody&theme=darkhub&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
@@ -224,9 +188,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 🧠 Activity Radar
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=github-dark"/>
-
 </div>
 
 ---
@@ -234,9 +196,7 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 🐍 Snake Contributions
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
 
 ---
@@ -271,10 +231,6 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
   </table>
 </div>
 
-
-
-
-
 ---
 
 ## 🎵 Música em destaque
@@ -286,15 +242,11 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 
 </details>
 
-
-
-
 ---
 
 ## 📈 Métricas do perfil
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 
 <br><br>
