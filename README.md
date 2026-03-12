@@ -256,13 +256,13 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
 ## 📈 Métricas do perfil
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=samoody" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/followers/samoody?style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/samoody?style=social" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/samoody/samoody?logo=git" alt="Forks"/>
   <a href="https://samoody.github.io/pix20.png" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=blue"/>
+
 </div>
 
