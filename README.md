@@ -235,9 +235,4 @@ Estudante de Engenharia da Computação focado em backend, APIs e desenvolviment
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/>
   </a>
 </div>
-<div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
