@@ -202,12 +202,11 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samoody&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=samoody&theme=dark"/>
 </div>
 
 ---
