@@ -205,7 +205,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark&cache_seconds=86400"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=samoody&theme=dark"/>
 </div>
 
