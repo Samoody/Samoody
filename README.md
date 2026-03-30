@@ -122,7 +122,7 @@
 # 🧠 Linguagens mais usadas
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&langs_count=8&theme=dark&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ---
@@ -206,8 +206,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark&cache_seconds=86400"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=samoody&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samoody&theme=dark"/>
 </div>
 
 ---
@@ -272,6 +272,8 @@
 <a href="https://samoody.github.io/pix20.png" target="_blank">
 <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/>
 </a>
+
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=17F77D&width=500&lines=//System+ShutDown+Complete;Volte+Sempre+Neo...;Keep+Hacking...;>_"/>
