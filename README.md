@@ -122,7 +122,7 @@
 # 🧠 Linguagens mais usadas
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&langs_count=6&theme=dark&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
