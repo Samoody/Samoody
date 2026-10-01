@@ -216,19 +216,55 @@
 
 ## 🎧 Spotify
 
-<div align="center">
+<div>
+<details>
+  <summary>
+    <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
+    Sam Moody's Spotify Data
+  </summary>
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&redirect=true">
+  <br/>
 
-<img 
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
-  alt="Spotify Profile"
-/>
-
-</a>
-
+  <div align="center">
+    <img 
+      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=isamoody" 
+      alt="Data Card for Spotify"
+      style="max-width:600px; width:100%; height:auto; display:block; margin:auto;"
+    />
+  </div>
+</details>
 </div>
 
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding-right:20px;">
+        <img 
+          alt="Spotify Profile" 
+          src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
+          style="max-width:300px; width:100%; height:auto;"
+        />
+      </td>
+
+      <td align="center" style="padding-left:20px;">
+        <img 
+          alt="Spotify Recently Played" 
+          src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" 
+          style="max-width:300px; width:100%; height:auto;"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<img 
+  src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody" 
+  alt="Spotify Recently Played"
+/>
 
 ---
 
