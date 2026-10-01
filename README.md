@@ -246,7 +246,7 @@
           src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" 
           style="max-width:300px; width:100%; height:auto;"
         />
-      </td>
+   
 
       <td align="center" style="padding-left:20px;">
         <img 
@@ -265,7 +265,7 @@
   src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody" 
   alt="Spotify Recently Played"
 />
-
+<\td>
 ---
 
 ## 🎵 Música em destaque
