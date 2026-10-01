@@ -219,6 +219,7 @@
 ## 🎧 Spotify
 
 <div>
+
 <details>
   <summary>
     <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
@@ -228,19 +229,17 @@
   <br/>
 
   <div align="center">
-    <!-- Card antigo: serviço atualmente com erro -->
+
+    <img 
+      alt="Spotify Recently Played"
+      src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"
+      style="max-width:600px; width:100%; height:auto;"
+    />
+
   </div>
+
 </details>
-</div>
 
-<br/>
-
-<div align="center">
-  <img 
-    alt="Spotify Recently Played"
-    src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"
-    style="max-width:600px; width:100%; height:auto;"
-  />
 </div>
 ---
 
