@@ -221,6 +221,10 @@
     alt="Spotify Recently Played" 
     src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" 
     style="max-width:300px; width:100%; height:auto;"
+   <img 
+  alt="Spotify Profile"
+  src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+/>
   />
 </td>
 ---
