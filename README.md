@@ -151,12 +151,10 @@
 
 # 🧠 Activity Graph
 
+
 <div align="center">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=dark"
-  alt="GitHub Activity Graph"
-/>
+[![Samoody's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=react-dark&hide_border=true)](https://github.com/samoody)
 
 </div>
 
