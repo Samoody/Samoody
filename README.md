@@ -214,21 +214,22 @@
 ---
 
 
+---
+
 ## 🎧 Spotify
 
 <details>
-
 <summary>
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
-Sam Moody's Spotify Data
+<img height="20" alt="Spotify" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
+&nbsp; Sam Moody's Spotify Data
 </summary>
 
 <br>
 
 <div align="center">
 
-<img 
-  alt="Spotify Recently Played" 
+<img
+  alt="Spotify Recently Played"
   src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"
   width="600"
 />
@@ -236,6 +237,8 @@ Sam Moody's Spotify Data
 </div>
 
 </details>
+
+---
 ---
 
 ## 🎵 Música em destaque
