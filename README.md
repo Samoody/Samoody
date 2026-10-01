@@ -216,10 +216,32 @@
 
 ## 🎧 Spotify
 
-<img 
-  alt="Spotify Profile"
-  src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
-/>
+## 🎧 Spotify
+
+<div>
+<details>
+  <summary>
+    <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
+    Sam Moody's Spotify Data
+  </summary>
+
+  <br/>
+
+  <div align="center">
+    <!-- Card antigo: serviço atualmente com erro -->
+  </div>
+</details>
+</div>
+
+<br/>
+
+<div align="center">
+  <img 
+    alt="Spotify Recently Played"
+    src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"
+    style="max-width:600px; width:100%; height:auto;"
+  />
+</div>
 ---
 
 ## 🎵 Música em destaque
