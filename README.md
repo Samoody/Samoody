@@ -152,7 +152,12 @@
 # 🧠 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=dark"/>
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=samoody&theme=dark"
+  alt="GitHub Activity Graph"
+/>
+
 </div>
 
 ---
