@@ -216,31 +216,26 @@
 
 ## 🎧 Spotify
 
-## 🎧 Spotify
-
-<div>
-
 <details>
-  <summary>
-    <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
-    Sam Moody's Spotify Data
-  </summary>
 
-  <br/>
+<summary>
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
+Sam Moody's Spotify Data
+</summary>
 
-  <div align="center">
+<br>
 
-    <img 
-      alt="Spotify Recently Played"
-      src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"
-      style="max-width:600px; width:100%; height:auto;"
-    />
+<div align="center">
 
-  </div>
-
-</details>
+<img 
+  alt="Spotify Recently Played" 
+  src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"
+  width="600"
+/>
 
 </div>
+
+</details>
 ---
 
 ## 🎵 Música em destaque
