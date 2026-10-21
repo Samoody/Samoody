@@ -227,21 +227,26 @@
 
 ## 🎧 Spotify
 
+<div>
 <details>
-<summary>
-<img height="20" alt="Spotify" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
-&nbsp; Sam Moody's Spotify Data
-</summary>
-
-<br>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Aramuni's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify"/>
+</details>
+</div>
 
 <div align="center">
-
-<img
-  alt="Spotify Recently Played"
-  src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"
-  width="600"
-/>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<!-- <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"/> -->
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="275px"/>
+</td>
 
 </div>
 
