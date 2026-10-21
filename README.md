@@ -227,32 +227,14 @@
 
 ## 🎧 Spotify
 
-<div>
-<details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify"/>
-</details>
-</div>
-
 <div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="Spotify" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=isamoody&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</td>
-<td>
-<!-- <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"/> -->
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" alt="Spotify recently played" width="275px"/>
-</td>
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=dark&hide_border=true&langs_count=8"
+/>
 
 </div>
-
-</details>
-
----
 ---
 
 ## 🎵 Música em destaque
