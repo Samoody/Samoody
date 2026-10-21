@@ -152,8 +152,7 @@
 
 ## 🧠 GitHub Activity Graph
 
-
-## 🧠 Activity Graph
+![Samoody's GitHub Activity Graph](./activity-graph.svg)
 
 
 
