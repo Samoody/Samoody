@@ -22,7 +22,7 @@ jobs:
         with:
           username: Samoody
 
-          - name: Apply Cyberpunk neon colors
+      - name: Apply Cyberpunk neon colors
         run: python scripts/customize_activity_graph.py
 
       - name: Save customized graphs
@@ -38,12 +38,6 @@ jobs:
           clean: true
           persist-credentials: true
 
-      - name: Copy customized graphs
-        run: |
-          cp "$RUNNER_TEMP/cyberpunk/activity-graph.svg" publish/
-          cp "$RUNNER_TEMP/cyberpunk/activity-graph-mobile.svg" publish/
-
-      
       - name: Commit customized graph
         working-directory: publish
         run: |
@@ -64,4 +58,3 @@ jobs:
           else
             echo "No graph changes to commit."
           fi
-
