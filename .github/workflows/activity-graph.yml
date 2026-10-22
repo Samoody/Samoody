@@ -22,7 +22,7 @@ jobs:
         with:
           username: Samoody
 
-      - name: Apply Cyberpunk neon colors
+          - name: Apply Cyberpunk neon colors
         run: python scripts/customize_activity_graph.py
 
       - name: Save customized graphs
