@@ -1,3 +1,4 @@
+
 name: Activity Graph
 
 on:
@@ -11,23 +12,49 @@ permissions:
 jobs:
   activity-graph:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout source
+        uses: actions/checkout@v4
 
       - name: Generate contribution graph
         uses: alexcerezo/activity-graph@v1
+        with:
+          username: Samoody
 
       - name: Apply Cyberpunk neon colors
         run: python scripts/customize_activity_graph.py
 
+      - name: Save customized graphs
+        run: |
+          mkdir -p "$RUNNER_TEMP/cyberpunk"
+          cp activity-graph.svg "$RUNNER_TEMP/cyberpunk/"
+          cp activity-graph-mobile.svg "$RUNNER_TEMP/cyberpunk/"
+
+      - name: Checkout clean repository
+        uses: actions/checkout@v4
+        with:
+          path: publish
+          clean: true
+          persist-credentials: true
+
+      - name: Copy customized graphs
+        run: |
+          cp "$RUNNER_TEMP/cyberpunk/activity-graph.svg" publish/
+          cp "$RUNNER_TEMP/cyberpunk/activity-graph-mobile.svg" publish/
+
       - name: Commit customized graph
+        working-directory: publish
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add activity-graph.svg activity-graph-mobile.svg README.md
+
+          git add activity-graph.svg activity-graph-mobile.svg
+
           if ! git diff --cached --quiet; then
-            git commit -m "Update cyberpunk activity graph"
-            git push
+            git -c core.editor=true commit -m "Update cyberpunk activity graph"
+            git pull --rebase origin main
+            git push origin main
           else
             echo "No graph changes to commit."
           fi
