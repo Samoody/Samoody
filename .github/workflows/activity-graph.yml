@@ -43,18 +43,25 @@ jobs:
           cp "$RUNNER_TEMP/cyberpunk/activity-graph.svg" publish/
           cp "$RUNNER_TEMP/cyberpunk/activity-graph-mobile.svg" publish/
 
+      
       - name: Commit customized graph
         working-directory: publish
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          git fetch origin main
+          git reset --hard origin/main
+
+          cp "$RUNNER_TEMP/cyberpunk/activity-graph.svg" activity-graph.svg
+          cp "$RUNNER_TEMP/cyberpunk/activity-graph-mobile.svg" activity-graph-mobile.svg
+
           git add activity-graph.svg activity-graph-mobile.svg
 
           if ! git diff --cached --quiet; then
             git -c core.editor=true commit -m "Update cyberpunk activity graph"
-            git pull --rebase origin main
             git push origin main
           else
             echo "No graph changes to commit."
           fi
+
