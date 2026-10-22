@@ -49,5 +49,14 @@ for path in FILES:
             background = f'<rect width="{w}" height="{h}" fill="#080713"/>\n  '
             svg = svg[:match.start()] + background + svg[match.start():]
 
+    # Compact layout: reduce rendered height while keeping the full width.
+    # preserveAspectRatio="none" compresses the SVG vertically without cropping labels.
+    svg = re.sub(
+        r'<svg([^>]*?)width="845" height="135" viewBox="0 0 845 135"([^>]*)>',
+        r'<svg\\1width="845" height="120" viewBox="0 0 845 135" preserveAspectRatio="none"\\2>',
+        svg,
+        count=1,
+    )
+
     path.write_text(svg, encoding="utf-8")
-    print(f"Cyberpunk palette applied: {path}")
+    print(f"Cyberpunk palette and compact layout applied: {path}")
