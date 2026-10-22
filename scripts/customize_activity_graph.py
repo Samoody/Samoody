@@ -1,62 +1,104 @@
+
 from pathlib import Path
 import re
 
-# Run after alexcerezo/activity-graph has generated the SVG files.
-FILES = (Path("activity-graph.svg"), Path("activity-graph-mobile.svg"))
+FILES = (
+    Path("activity-graph.svg"),
+    Path("activity-graph-mobile.svg"),
+)
 
-REPLACEMENTS = {
-    "fill: #656d76;": "fill: #b8a6d9;",
-    "fill: #8b949e;": "fill: #c4b5fd;",
-    "rgba(0, 123, 58, 0.15)": "rgba(124, 58, 237, 0.45)",
-    "rgba(0, 123, 58, 0.35)": "rgba(124, 58, 237, 0.70)",
-    "rgba(0, 123, 58, 0.60)": "rgba(139, 92, 246, 0.92)",
-    "rgba(0, 123, 58, 0.90)": "rgba(0, 229, 255, 1.0)",
-    "rgba(57, 211, 83, 0.25)": "rgba(124, 58, 237, 0.50)",
-    "rgba(57, 211, 83, 0.50)": "rgba(124, 58, 237, 0.75)",
-    "rgba(57, 211, 83, 0.75)": "rgba(139, 92, 246, 0.95)",
-    "rgba(57, 211, 83, 1.0)": "rgba(0, 229, 255, 1.0)",
-    "rgba(57, 211, 83, 0.6)": "rgba(0, 229, 255, 0.75)",
-    "rgba(0, 123, 58, 0.3)": "rgba(0, 229, 255, 0.5)",
-    "rgba(0,123,58,0.25)": "rgba(124,58,237,0.35)",
-    "rgba(0,123,58,0.35)": "rgba(124,58,237,0.50)",
-    "rgba(0,123,58,0.2)": "rgba(124,58,237,0.30)",
-    "rgba(0,123,58,0.4)": "rgba(0,229,255,0.45)",
-    "rgba(0,123,58,0.05)": "rgba(124,58,237,0.06)",
-    "rgba(0,123,58,0.03)": "rgba(124,58,237,0.04)",
-    "rgba(0,123,58,0.5)": "rgba(0,229,255,0.55)",
-    "rgba(0,123,58,0.07)": "rgba(0,229,255,0.08)",
-    "rgba(57,211,83,0.4)": "rgba(124,58,237,0.55)",
-    "rgba(57,211,83,0.5)": "rgba(124,58,237,0.65)",
-    "rgba(57,211,83,0.3)": "rgba(0,229,255,0.35)",
-    "rgba(57,211,83,0.6)": "rgba(0,229,255,0.70)",
-    "rgba(57,211,83,0.7)": "rgba(0,229,255,0.80)",
-    "rgba(57,211,83,0.55)": "rgba(0,229,255,0.60)",
+# Paleta Cyberpunk: roxo neon + ciano elétrico
+CYBERPUNK_CSS = """
+.level-0 { fill: transparent; stroke: none; }
+.level-1 { fill: rgba(124, 58, 237, 0.35); }
+.level-2 { fill: rgba(124, 58, 237, 0.65); }
+.level-3 { fill: rgba(139, 92, 246, 0.90); }
+.level-4 { fill: rgba(0, 229, 255, 1.0); }
+
+.bg-star {
+    fill: rgba(0, 229, 255, 0.65);
 }
+"""
 
-for path in FILES:
+def customize_svg(path):
     if not path.exists():
-        continue
+        print(f"Arquivo não encontrado: {path}")
+        return
 
     svg = path.read_text(encoding="utf-8")
-    for old, new in REPLACEMENTS.items():
-        svg = svg.replace(old, new)
 
-    # Use a dark base so the neon palette looks consistent in light and dark GitHub themes.
-    if 'fill="#080713"' not in svg:
-        match = re.search(r'(<rect\s+width="([^"]+)"\s+height="([^"]+)"\s+fill="url\(#bgGlow\)"\s*/>)', svg)
-        if match:
-            w, h = match.group(2), match.group(3)
-            background = f'<rect width="{w}" height="{h}" fill="#080713"/>\n  '
-            svg = svg[:match.start()] + background + svg[match.start():]
-
-    # Compact layout: reduce rendered height while keeping the full width.
-    # preserveAspectRatio="none" compresses the SVG vertically without cropping labels.
+    # Substitui as regras de contribuição, independentemente
+    # das cores verdes usadas pelo gerador.
     svg = re.sub(
-        r'<svg([^>]*?)width="845" height="135" viewBox="0 0 845 135"([^>]*)>',
-        r'<svg\\1width="845" height="120" viewBox="0 0 845 135" preserveAspectRatio="none"\\2>',
+        r"\.level-0\s*\{[^}]*\}"
+        r"|\ .level-1\s*\{[^}]*\}"
+        r"|\ .level-2\s*\{[^}]*\}"
+        r"|\ .level-3\s*\{[^}]*\}"
+        r"|\ .level-4\s*\{[^}]*\}",
+        lambda m: m.group(0),
         svg,
-        count=1,
+    ) if False else svg
+
+    # Atualiza cada classe de contribuição em todos os temas.
+    levels = {
+        0: "fill: transparent; stroke: none;",
+        1: "fill: rgba(124, 58, 237, 0.35);",
+        2: "fill: rgba(124, 58, 237, 0.65);",
+        3: "fill: rgba(139, 92, 246, 0.90);",
+        4: "fill: rgba(0, 229, 255, 1.0);",
+    }
+
+    for level, declaration in levels.items():
+        pattern = rf"\.level-{level}\s*\{{[^}}]*\}}"
+        replacement = f".level-{level} {{ {declaration} }}"
+        svg = re.sub(pattern, replacement, svg)
+
+    # Troca os verdes dos efeitos de brilho por roxo/ciano.
+    svg = re.sub(
+        r"rgba\(\s*0\s*,\s*123\s*,\s*58\s*,\s*[\d.]+\s*\)",
+        "rgba(124, 58, 237, 0.55)",
+        svg,
+    )
+    svg = re.sub(
+        r"rgba\(\s*57\s*,\s*211\s*,\s*83\s*,\s*[\d.]+\s*\)",
+        "rgba(0, 229, 255, 0.75)",
+        svg,
     )
 
+    # Textos em lilás para contrastar com o fundo escuro.
+    svg = svg.replace("#656d76", "#c4b5fd")
+    svg = svg.replace("#8b949e", "#b8a6d9")
+
+    # Mantém um fundo escuro consistente.
+    if 'fill="#080713"' not in svg:
+        match = re.search(
+            r'<rect\b(?=[^>]*\bwidth="([^"]+)")'
+            r'(?=[^>]*\bheight="([^"]+)")'
+            r'(?=[^>]*\bfill="url\(#bgGlow\)")'
+            r'[^>]*/>',
+            svg,
+        )
+
+        if match:
+            width, height = match.group(1), match.group(2)
+            background = (
+                f'<rect width="{width}" height="{height}" '
+                'fill="#080713"/>'
+            )
+            svg = svg[:match.start()] + background + "\n  " + svg[match.start():]
+
+    # Reduz a altura apenas do gráfico desktop, sem cortar o viewBox.
+    if path.name == "activity-graph.svg":
+        svg = re.sub(
+            r'(<svg\b[^>]*\bwidth="845"[^>]*\bheight=")135(")',
+            r'\g<1>120\2',
+            svg,
+            count=1,
+        )
+
     path.write_text(svg, encoding="utf-8")
-    print(f"Cyberpunk palette and compact layout applied: {path}")
+    print(f"Cyberpunk aplicado: {path}")
+
+
+for file in FILES:
+    customize_svg(file)
