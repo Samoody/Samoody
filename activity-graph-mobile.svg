@@ -5,14 +5,14 @@
     .month-label {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
       font-size: 10px;
-      fill: #656d76;
+      fill: #c4b5fd;
       opacity: 0;
       animation: fadeIn 0.6s ease forwards;
     }
     .day-label {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
       font-size: 10px;
-      fill: #656d76;
+      fill: #c4b5fd;
       opacity: 0;
       animation: fadeIn 0.6s ease forwards;
     }
@@ -27,22 +27,22 @@
     /* ===== THEME: LIGHT (default) ===== */
     /* Pure green with transparency — level 0 invisible */
     .level-0 { fill: transparent; stroke: none; }
-    .level-1 { fill: rgba(0, 123, 58, 0.15); }
-    .level-2 { fill: rgba(0, 123, 58, 0.35); }
-    .level-3 { fill: rgba(0, 123, 58, 0.60); }
-    .level-4 { fill: rgba(0, 123, 58, 0.90); }
+    .level-1 { fill: rgba(124, 58, 237, 0.35); }
+    .level-2 { fill: rgba(124, 58, 237, 0.65); }
+    .level-3 { fill: rgba(139, 92, 246, 0.90); }
+    .level-4 { fill: rgba(0, 229, 255, 1.0); }
 
     /* ===== THEME: DARK ===== */
     @media (prefers-color-scheme: dark) {
-      .month-label { fill: #8b949e; }
-      .day-label { fill: #8b949e; }
+      .month-label { fill: #b8a6d9; }
+      .day-label { fill: #b8a6d9; }
       .level-0 { fill: transparent; stroke: none; }
-      .level-1 { fill: rgba(57, 211, 83, 0.25); }
-      .level-2 { fill: rgba(57, 211, 83, 0.50); }
-      .level-3 { fill: rgba(57, 211, 83, 0.75); }
-      .level-4 { fill: rgba(57, 211, 83, 1.0); }
+      .level-1 { fill: rgba(124, 58, 237, 0.35); }
+      .level-2 { fill: rgba(124, 58, 237, 0.65); }
+      .level-3 { fill: rgba(139, 92, 246, 0.90); }
+      .level-4 { fill: rgba(0, 229, 255, 1.0); }
 
-      .bg-star { fill: rgba(57, 211, 83, 0.6); }
+      .bg-star { fill: rgba(0, 229, 255, 0.75); }
     }
 
     /* ===== KEYFRAMES ===== */
@@ -60,7 +60,7 @@
     /* --- Twinkle: soft (level 1) --- */
     @keyframes twinkleSoft {
       0%, 100% { filter: drop-shadow(0 0 0px transparent); background: transparent; }
-      50%      { filter: drop-shadow(0 0 2px rgba(0,123,58,0.25)); background: transparent; }
+      50%      { filter: drop-shadow(0 0 2px rgba(124, 58, 237, 0.55)); background: transparent; }
     }
     .twinkle-soft {
       animation: cellAppear 0.4s ease forwards, twinkleSoft var(--twinkle-dur, 5s) ease-in-out infinite;
@@ -69,8 +69,8 @@
     /* --- Twinkle: mid (level 2) --- */
     @keyframes twinkleMid {
       0%, 100% { filter: drop-shadow(0 0 0px transparent); background: transparent; }
-      40%      { filter: drop-shadow(0 0 3px rgba(0,123,58,0.35)); background: rgba(0,123,58,0.03); }
-      70%      { filter: drop-shadow(0 0 1px rgba(0,123,58,0.2)); background: transparent; }
+      40%      { filter: drop-shadow(0 0 3px rgba(124, 58, 237, 0.55)); background: rgba(124, 58, 237, 0.55); }
+      70%      { filter: drop-shadow(0 0 1px rgba(124, 58, 237, 0.55)); background: transparent; }
     }
     .twinkle-mid {
       animation: cellAppear 0.4s ease forwards, twinkleMid var(--twinkle-dur, 4s) ease-in-out infinite;
@@ -79,8 +79,8 @@
     /* --- Twinkle: bright (level 3) --- */
     @keyframes twinkleBright {
       0%, 100% { filter: drop-shadow(0 0 0px transparent); background: transparent; }
-      30%      { filter: drop-shadow(0 0 5px rgba(0,123,58,0.4)); background: rgba(0,123,58,0.05); }
-      60%      { filter: drop-shadow(0 0 2px rgba(0,123,58,0.2)); background: transparent; }
+      30%      { filter: drop-shadow(0 0 5px rgba(124, 58, 237, 0.55)); background: rgba(124, 58, 237, 0.55); }
+      60%      { filter: drop-shadow(0 0 2px rgba(124, 58, 237, 0.55)); background: transparent; }
     }
     .twinkle-bright {
       animation: cellAppear 0.4s ease forwards, twinkleBright var(--twinkle-dur, 3s) ease-in-out infinite;
@@ -89,9 +89,9 @@
     /* --- Twinkle: intense (level 4) --- */
     @keyframes twinkleIntense {
       0%   { filter: drop-shadow(0 0 0px transparent); background: transparent; }
-      25%  { filter: drop-shadow(0 0 7px rgba(0,123,58,0.5)); background: rgba(0,123,58,0.07); }
-      50%  { filter: drop-shadow(0 0 2px rgba(0,123,58,0.25)); background: transparent; }
-      75%  { filter: drop-shadow(0 0 5px rgba(0,123,58,0.4)); background: rgba(0,123,58,0.04); }
+      25%  { filter: drop-shadow(0 0 7px rgba(124, 58, 237, 0.55)); background: rgba(124, 58, 237, 0.55); }
+      50%  { filter: drop-shadow(0 0 2px rgba(124, 58, 237, 0.55)); background: transparent; }
+      75%  { filter: drop-shadow(0 0 5px rgba(124, 58, 237, 0.55)); background: rgba(124, 58, 237, 0.55); }
       100% { filter: drop-shadow(0 0 0px transparent); background: transparent; }
     }
     .twinkle-intense {
@@ -102,23 +102,23 @@
     @media (prefers-color-scheme: dark) {
       @keyframes twinkleSoft {
         0%, 100% { filter: drop-shadow(0 0 0px transparent); }
-        50%      { filter: drop-shadow(0 0 3px rgba(57,211,83,0.4)); }
+        50%      { filter: drop-shadow(0 0 3px rgba(0, 229, 255, 0.75)); }
       }
       @keyframes twinkleMid {
         0%, 100% { filter: drop-shadow(0 0 0px transparent); }
-        40%      { filter: drop-shadow(0 0 4px rgba(57,211,83,0.5)); }
-        70%      { filter: drop-shadow(0 0 2px rgba(57,211,83,0.3)); }
+        40%      { filter: drop-shadow(0 0 4px rgba(0, 229, 255, 0.75)); }
+        70%      { filter: drop-shadow(0 0 2px rgba(0, 229, 255, 0.75)); }
       }
       @keyframes twinkleBright {
         0%, 100% { filter: drop-shadow(0 0 0px transparent); }
-        30%      { filter: drop-shadow(0 0 6px rgba(57,211,83,0.6)); }
-        60%      { filter: drop-shadow(0 0 3px rgba(57,211,83,0.3)); }
+        30%      { filter: drop-shadow(0 0 6px rgba(0, 229, 255, 0.75)); }
+        60%      { filter: drop-shadow(0 0 3px rgba(0, 229, 255, 0.75)); }
       }
       @keyframes twinkleIntense {
         0%   { filter: drop-shadow(0 0 0px transparent); }
-        25%  { filter: drop-shadow(0 0 8px rgba(57,211,83,0.7)); }
-        50%  { filter: drop-shadow(0 0 3px rgba(57,211,83,0.35)); }
-        75%  { filter: drop-shadow(0 0 6px rgba(57,211,83,0.55)); }
+        25%  { filter: drop-shadow(0 0 8px rgba(0, 229, 255, 0.75)); }
+        50%  { filter: drop-shadow(0 0 3px rgba(0, 229, 255, 0.75)); }
+        75%  { filter: drop-shadow(0 0 6px rgba(0, 229, 255, 0.75)); }
         100% { filter: drop-shadow(0 0 0px transparent); }
       }
     }
@@ -129,7 +129,7 @@
       50%      { opacity: 0.35; }
     }
     .bg-star {
-      fill: rgba(0, 123, 58, 0.3);
+      fill: rgba(124, 58, 237, 0.55);
       opacity: 0.1;
       animation: bgTwinkle 3s ease-in-out infinite;
     }
@@ -140,6 +140,7 @@
       <stop offset="100%" style="stop-color:currentColor;stop-opacity:0"/>
     </radialGradient>
   </defs>
+  <rect width="374" height="158" fill="#080713"/>
   <rect width="374" height="158" fill="url(#bgGlow)"/>
   <circle cx="372" cy="121" r="0.5" class="bg-star" style="animation-delay:0.0s;animation-duration:2.0s"/><circle cx="92" cy="11" r="0.8" class="bg-star" style="animation-delay:0.3s;animation-duration:2.8s"/><circle cx="88" cy="43" r="1.1" class="bg-star" style="animation-delay:0.6s;animation-duration:3.6s"/><circle cx="56" cy="11" r="0.5" class="bg-star" style="animation-delay:0.9s;animation-duration:4.4s"/><circle cx="312" cy="69" r="0.8" class="bg-star" style="animation-delay:1.2s;animation-duration:5.2s"/><circle cx="204" cy="145" r="1.1" class="bg-star" style="animation-delay:1.5s;animation-duration:2.0s"/><circle cx="308" cy="47" r="0.5" class="bg-star" style="animation-delay:1.8s;animation-duration:2.8s"/><circle cx="206" cy="69" r="0.8" class="bg-star" style="animation-delay:2.1s;animation-duration:3.6s"/><circle cx="154" cy="71" r="1.1" class="bg-star" style="animation-delay:2.4s;animation-duration:4.4s"/><circle cx="310" cy="75" r="0.5" class="bg-star" style="animation-delay:2.7s;animation-duration:5.2s"/><circle cx="56" cy="19" r="0.8" class="bg-star" style="animation-delay:3.0s;animation-duration:2.0s"/><circle cx="84" cy="37" r="1.1" class="bg-star" style="animation-delay:3.3s;animation-duration:2.8s"/><circle cx="328" cy="53" r="0.5" class="bg-star" style="animation-delay:3.6s;animation-duration:3.6s"/><circle cx="324" cy="45" r="0.8" class="bg-star" style="animation-delay:3.9s;animation-duration:4.4s"/><circle cx="332" cy="77" r="1.1" class="bg-star" style="animation-delay:4.2s;animation-duration:5.2s"/><circle cx="348" cy="67" r="0.5" class="bg-star" style="animation-delay:4.5s;animation-duration:2.0s"/><circle cx="366" cy="17" r="0.8" class="bg-star" style="animation-delay:4.8s;animation-duration:2.8s"/><circle cx="92" cy="101" r="1.1" class="bg-star" style="animation-delay:5.1s;animation-duration:3.6s"/><circle cx="72" cy="21" r="0.5" class="bg-star" style="animation-delay:5.4s;animation-duration:4.4s"/><circle cx="130" cy="21" r="0.8" class="bg-star" style="animation-delay:5.7s;animation-duration:5.2s"/><circle cx="188" cy="87" r="1.1" class="bg-star" style="animation-delay:6.0s;animation-duration:2.0s"/><circle cx="262" cy="45" r="0.5" class="bg-star" style="animation-delay:6.3s;animation-duration:2.8s"/><circle cx="218" cy="99" r="0.8" class="bg-star" style="animation-delay:6.6s;animation-duration:3.6s"/><circle cx="268" cy="103" r="1.1" class="bg-star" style="animation-delay:6.9s;animation-duration:4.4s"/><circle cx="238" cy="61" r="0.5" class="bg-star" style="animation-delay:7.2s;animation-duration:5.2s"/><circle cx="352" cy="125" r="0.8" class="bg-star" style="animation-delay:7.5s;animation-duration:2.0s"/><circle cx="286" cy="59" r="1.1" class="bg-star" style="animation-delay:7.8s;animation-duration:2.8s"/><circle cx="124" cy="63" r="0.5" class="bg-star" style="animation-delay:8.1s;animation-duration:3.6s"/><circle cx="318" cy="79" r="0.8" class="bg-star" style="animation-delay:8.4s;animation-duration:4.4s"/><circle cx="230" cy="49" r="1.1" class="bg-star" style="animation-delay:8.7s;animation-duration:5.2s"/><circle cx="158" cy="21" r="0.5" class="bg-star" style="animation-delay:9.0s;animation-duration:2.0s"/><circle cx="222" cy="139" r="0.8" class="bg-star" style="animation-delay:9.3s;animation-duration:2.8s"/><circle cx="146" cy="55" r="1.1" class="bg-star" style="animation-delay:9.6s;animation-duration:3.6s"/><circle cx="218" cy="137" r="0.5" class="bg-star" style="animation-delay:9.9s;animation-duration:4.4s"/><circle cx="356" cy="71" r="0.8" class="bg-star" style="animation-delay:10.2s;animation-duration:5.2s"/><circle cx="184" cy="91" r="1.1" class="bg-star" style="animation-delay:10.5s;animation-duration:2.0s"/><circle cx="80" cy="89" r="0.5" class="bg-star" style="animation-delay:10.8s;animation-duration:2.8s"/><circle cx="280" cy="57" r="0.8" class="bg-star" style="animation-delay:11.1s;animation-duration:3.6s"/><circle cx="248" cy="143" r="1.1" class="bg-star" style="animation-delay:11.4s;animation-duration:4.4s"/><circle cx="356" cy="17" r="0.5" class="bg-star" style="animation-delay:11.7s;animation-duration:5.2s"/>
   <text x="35" y="12" class="month-label">Jun</text><text x="53" y="12" class="month-label">Jul</text><text x="143" y="12" class="month-label">Aug</text><text x="215" y="12" class="month-label">Sep</text><text x="305" y="12" class="month-label">Oct</text>
