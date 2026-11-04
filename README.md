@@ -242,6 +242,8 @@
   width="600"
 />
 ---
+<\div>
+<\details>
 
 ## 🎵 Música em destaque
 
@@ -250,9 +252,8 @@
 
 [Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
 
-<<div>
-</details>
-
+<\div>
+<\details>
 ---
 
 ## 📈 Métricas do perfil
