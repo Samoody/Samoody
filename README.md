@@ -224,6 +224,8 @@
 
 ---
 
+---
+
 ## 🎧 Spotify
 
 <details>
@@ -241,19 +243,32 @@
   src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10"
   width="600"
 />
+
+</div>
+
+</details>
+
 ---
-<\div>
-<\details>
 
 ## 🎵 Música em destaque
 
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+<div align="center">
 
-<\div>
-<\details>
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">
+<img
+  src="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1"
+  width="500"
+  alt="Charlie Brown Jr. - Céu Azul"
+/>
+</a>
+
+</div>
+
+</details>
+
 ---
 
 ## 📈 Métricas do perfil
@@ -263,6 +278,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 
 <br><br>
+
 <img src="https://img.shields.io/github/followers/samoody?style=social"/>
 <img src="https://img.shields.io/github/stars/samoody?style=social"/>
 <img src="https://img.shields.io/github/forks/samoody/samoody?logo=git"/>
@@ -275,6 +291,3 @@
 
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=17F77D&width=500&lines=//System+ShutDown+Complete;Volte+Sempre+Neo...;Keep+Hacking...;>_"/>
-</div>
