@@ -99,36 +99,28 @@
 
 ## 🛠️ Tecnologias
 
-<h3 align="center">Backend</h3>
+### Backend
 
-<p align="center">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
 
-<h3 align="center">Frontend</h3>
+### Frontend
 
-<p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
 
-<h3 align="center">Banco de dados</h3>
+### Banco de dados
 
-<p align="center">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
 
-<h3 align="center">Ferramentas</h3>
+### Ferramentas
 
-<p align="center">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
 
 ---
 
@@ -144,7 +136,7 @@
 
 <div align="center">
 
-<img height="180em" alt="Linguagens mais usadas" src="https://helio-github-stats.vercel.app/api/top-langs/?username=samoody&theme=dark&hide_border=true&langs_count=8&locale=pt-br"/>
+<img height="180em" alt="Linguagens mais usadas" src="https://helio-github-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&theme=dark&hide_border=true&langs_count=8&locale=pt-br"/>
 
 </div>
 
@@ -213,9 +205,6 @@
 <a href="https://wa.me/5531993938538">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="https://open.spotify.com/user/isamoody">
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
 
 <br/><br/>
 
@@ -253,15 +242,6 @@
 
 </div>
 
-<!-- ⬇️ Descomente este bloco DEPOIS de rodar a action "Metrics" (ela gera o ./github-metrics.svg) ⬇️
-## 📊 Metrics
-
-<div align="center">
-<img alt="Metrics" src="./github-metrics.svg" width="100%"/>
-</div>
-
--->
-
 ---
 
 ## ⏱️ WakaTime
@@ -289,29 +269,14 @@
 
 <div align="center">
 
-<p>
-<img alt="Spotify tocando agora" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&amp;count=5&amp;width=380&amp;unique=1" width="380"/>
-<img alt="Spotify tocadas recentes" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=5&amp;width=400&amp;radius=40&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" width="400"/>
-</p>
-
-<a href="https://open.spotify.com/user/isamoody" target="_blank">
-<img alt="Abrir meu perfil no Spotify" src="https://img.shields.io/badge/Spotify-Abrir%20meu%20perfil-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
+<img alt="Spotify Recently Played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" width="540"/>
 
 </div>
 
 </details>
 
-<!-- 3o BLOCO opcional (top artistas), igual ao do aramuni:
-     1. abra https://iodev.io/s-d-c e conecte seu Spotify;
-     2. copie o user_id gerado;
-     3. descomente o bloco abaixo trocando SEU_USER_ID:
-
-<div align="center">
-<img alt="Spotify Data Card" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=SEU_USER_ID" width="620"/>
-</div>
-
--->
+<!-- Backup, se o card acima cair: use esta linha no lugar dele -->
+<!-- <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" width="600"/> -->
 
 ---
 
