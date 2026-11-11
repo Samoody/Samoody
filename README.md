@@ -229,6 +229,19 @@
 
 ---
 
+## ⏱️ WakaTime
+
+<div align="center">
+
+<img alt="WakaTime Stats" src="https://helio-github-stats.vercel.app/api/wakatime?username=Samoody&theme=dark&langs_count=12&locale=pt-br"/>
+
+</div>
+
+<!-- Backup, se a instância acima cair: use esta linha no lugar do card -->
+<!-- <img alt="WakaTime Stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=Samoody&theme=dark&langs_count=12"/> -->
+
+---
+
 ## 🎧 Spotify
 
 <details open>
@@ -261,15 +274,15 @@
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=0dLX40UMUKo">
-<img alt="Charlie Brown Jr. - Céu Azul (Clipe Oficial)" src="https://i.ytimg.com/vi/0dLX40UMUKo/maxresdefault.jpg" width="500"/>
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">
+<img alt="Charlie Brown Jr. - Céu Azul (Ao Vivo - Chegou Quem Faltava)" src="https://i.ytimg.com/vi/0dLX40UMUKo/maxresdefault.jpg" width="500"/>
 </a>
 
 <br/><br/>
 
 🎸 **Charlie Brown Jr. — Céu Azul** •
-<a href="https://www.youtube.com/watch?v=0dLX40UMUKo">Clipe oficial</a> •
-<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">Ao vivo (Chegou Quem Faltava)</a>
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">▶ Assistir ao vivo (toca aqui no GitHub)</a> •
+<a href="https://www.youtube.com/watch?v=0dLX40UMUKo">Clipe oficial no YouTube</a>
 
 </div>
 
