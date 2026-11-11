@@ -99,28 +99,36 @@
 
 ## 🛠️ Tecnologias
 
-### Backend
+<h3 align="center">Backend</h3>
 
+<p align="center">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 
+<p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Banco de dados
+<h3 align="center">Banco de dados</h3>
 
+<p align="center">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### Ferramentas
+<h3 align="center">Ferramentas</h3>
 
+<p align="center">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
@@ -205,6 +213,9 @@
 <a href="https://wa.me/5531993938538">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+<a href="https://open.spotify.com/user/isamoody">
+<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -278,18 +289,10 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="middle">
-<img alt="Spotify Recently Played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=8&amp;width=400&amp;radius=40&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" width="400"/>
-</td>
-<td align="center" valign="middle">
-<img alt="Spotify tocando agora" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&amp;count=6&amp;width=380&amp;unique=1" width="380"/>
-</td>
-</tr>
-</table>
-
-<br/>
+<p>
+<img alt="Spotify tocando agora" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&amp;count=5&amp;width=380&amp;unique=1" width="380"/>
+<img alt="Spotify tocadas recentes" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=5&amp;width=400&amp;radius=40&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" width="400"/>
+</p>
 
 <a href="https://open.spotify.com/user/isamoody" target="_blank">
 <img alt="Abrir meu perfil no Spotify" src="https://img.shields.io/badge/Spotify-Abrir%20meu%20perfil-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
@@ -299,11 +302,7 @@
 
 </details>
 
-<!-- Os 2 cards acima mostram a mesma faixa em desenhos diferentes. O widget de
-     "tocando agora" que o aramuni usa (spotify-github-profile) hoje esta pago
-     (HTTP 402), por isso nao da para usar. Se um dos cards cair, use o outro. -->
-
-<!-- TERCEIRO BLOCO (top artistas / top faixas), igual ao do aramuni:
+<!-- 3o BLOCO opcional (top artistas), igual ao do aramuni:
      1. abra https://iodev.io/s-d-c e conecte seu Spotify;
      2. copie o user_id gerado;
      3. descomente o bloco abaixo trocando SEU_USER_ID:
