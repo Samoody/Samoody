@@ -229,6 +229,21 @@
 
 ---
 
+## 📌 Resumo do perfil
+
+<div align="center">
+
+<img width="100%" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samoody&theme=github_dark"/>
+
+<br/>
+
+<img height="180em" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samoody&theme=github_dark"/>
+<img height="180em" alt="Commits por hora do dia" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samoody&theme=github_dark&utcOffset=-3"/>
+
+</div>
+
+---
+
 ## ⏱️ WakaTime
 
 <div align="center">
