@@ -231,7 +231,7 @@
 
 ## 🎧 Spotify
 
-<details>
+<details open>
 <summary>
 <img height="20" alt="Spotify" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
 &nbsp; Sam Moody's Spotify Data
@@ -241,26 +241,35 @@
 
 <div align="center">
 
-<img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" width="600"/>
+<img alt="Spotify Recently Played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" width="540"/>
 
 </div>
 
 </details>
 
+<!-- Backup, se o card acima cair: use esta linha no lugar dele -->
+<!-- <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" width="600"/> -->
+
 ---
 
 ## 🎵 Música em destaque
 
-<details>
+<details open>
 <summary>:headphones: :guitar: :drum:</summary>
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">
-<img alt="Charlie Brown Jr. - Céu Azul" src="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1" width="500"/>
+<a href="https://www.youtube.com/watch?v=0dLX40UMUKo">
+<img alt="Charlie Brown Jr. - Céu Azul (Clipe Oficial)" src="https://i.ytimg.com/vi/0dLX40UMUKo/maxresdefault.jpg" width="500"/>
 </a>
+
+<br/><br/>
+
+🎸 **Charlie Brown Jr. — Céu Azul** •
+<a href="https://www.youtube.com/watch?v=0dLX40UMUKo">Clipe oficial</a> •
+<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">Ao vivo (Chegou Quem Faltava)</a>
 
 </div>
 
