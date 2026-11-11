@@ -136,7 +136,7 @@
 
 <div align="center">
 
-<img height="180em" alt="Linguagens mais usadas" src="https://helio-github-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&theme=dark&hide_border=true&langs_count=8&locale=pt-br"/>
+<img height="180em" alt="Linguagens mais usadas" src="https://helio-github-stats.vercel.app/api/top-langs/?username=samoody&theme=dark&hide_border=true&langs_count=8&locale=pt-br"/>
 
 </div>
 
@@ -242,6 +242,15 @@
 
 </div>
 
+<!-- ⬇️ Descomente este bloco DEPOIS de rodar a action "Metrics" (ela gera o ./github-metrics.svg) ⬇️
+## 📊 Metrics
+
+<div align="center">
+<img alt="Metrics" src="./github-metrics.svg" width="100%"/>
+</div>
+
+-->
+
 ---
 
 ## ⏱️ WakaTime
@@ -269,14 +278,41 @@
 
 <div align="center">
 
-<img alt="Spotify Recently Played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" width="540"/>
+<table>
+<tr>
+<td align="center" valign="middle">
+<img alt="Spotify Recently Played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=8&amp;width=400&amp;radius=40&amp;theme=dark&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" width="400"/>
+</td>
+<td align="center" valign="middle">
+<img alt="Spotify tocando agora" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&amp;count=6&amp;width=380&amp;unique=1" width="380"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://open.spotify.com/user/isamoody" target="_blank">
+<img alt="Abrir meu perfil no Spotify" src="https://img.shields.io/badge/Spotify-Abrir%20meu%20perfil-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
 </div>
 
 </details>
 
-<!-- Backup, se o card acima cair: use esta linha no lugar dele -->
-<!-- <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" width="600"/> -->
+<!-- Os 2 cards acima mostram a mesma faixa em desenhos diferentes. O widget de
+     "tocando agora" que o aramuni usa (spotify-github-profile) hoje esta pago
+     (HTTP 402), por isso nao da para usar. Se um dos cards cair, use o outro. -->
+
+<!-- TERCEIRO BLOCO (top artistas / top faixas), igual ao do aramuni:
+     1. abra https://iodev.io/s-d-c e conecte seu Spotify;
+     2. copie o user_id gerado;
+     3. descomente o bloco abaixo trocando SEU_USER_ID:
+
+<div align="center">
+<img alt="Spotify Data Card" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=SEU_USER_ID" width="620"/>
+</div>
+
+-->
 
 ---
 
