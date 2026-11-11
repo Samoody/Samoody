@@ -1,326 +1,160 @@
-<div align="center">
+::: {align="center"}
+`<img src="https://github.com/Samoody/Samoody/raw/main/bannergithub.png" width="100%" alt="Banner Samuel Moody"/>`{=html}
 
-<!-- Banner -->
-<img alt="Banner GitHub" src="https://github.com/samoody/samoody/raw/main/bannergithub.png" width="100%"/>
+# Olá, eu sou Samuel Moody 👋
 
-<!-- Top 0.1% Hacker Badge -->
+### Estudante de Engenharia da Computação \| Análise e Desenvolvimento de Sistemas
+
+```{=html}
 <p>
-<img alt="Hacker Top 0.1%" src="https://img.shields.io/badge/Hacker-Top%200.1%25-00FF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img alt="GitHub Elite" src="https://img.shields.io/badge/GitHub-Elite-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<!-- Terminal Typing Intro -->
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+System...;Loading+Elite+Developer+Profile...;Initializing+Neo+Mode...;Welcome+Neo"/>
-
-</div>
-
----
-
-## 🖥️ Terminal Hacker Mode
-
-```bash
-[00:00] > Initializing system...
-[00:01] > Loading Java Backend Modules...
-[00:02] > Python APIs starting...
-[00:03] > Connecting MySQL & PostgreSQL Databases...
-[00:04] > GitHub Profile Top 0.1% loaded
-[00:05] > Neo Mode Activated
-[00:06] > Running Snake Contributions...
-[00:07] > Live Coding Modules Online
-[00:08] > Spotify Data Fetched
-[00:09] > Matrix Terminal Ready
 ```
+`<a href="https://github.com/Samoody">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Samoody-181717?style=for-the-badge&logo=github" alt="GitHub"/>`{=html}
+`</a>`{=html} `<a href="https://www.linkedin.com/in/samoody1">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>`{=html}
+`</a>`{=html} `<a href="mailto:samuelmoody679@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+:::
 
-<h2 align="center">💻 Backend Developer em formação • Java • Python • APIs</h2>
-
-<p align="center">Estudante de Engenharia da Computação focado em backend, APIs e desenvolvimento de software.</p>
-
-<div align="center">
-<img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header"/>
-</div>
-
-<!-- Matrix Terminal GIF -->
-<div align="center">
-<img alt="Matrix Terminal" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="80%"/>
-</div>
-
-<!-- Terminal Typing Intro -->
-<div align="center">
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Booting+System...;Loading+Elite+Developer+Profile...;Initializing+Top+0.1%25+Stats...;Welcome+Neo"/>
-</div>
-
----
+------------------------------------------------------------------------
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Desenvolvedor backend em formação
-- 🎓 Estudante de Engenharia da Computação
-- 🎧 DJ nas horas vagas
-- 🎮 Fã de jogos clássicos online
-- ⚽ Torcedor do Flamengo
-- 💬 Gosto de aprender novas tecnologias e ajudar pessoas
-- 📫 Contato: **samuelmoody679@gmail.com**
+Sou estudante de **Engenharia da Computação** e **Análise e
+Desenvolvimento de Sistemas**, interessado em tecnologia,
+desenvolvimento de software e na forma como as coisas funcionam.
 
----
+Minha trajetória começou pelo contato com suporte técnico e atendimento
+de TI, experiência que fortaleceu minha capacidade de investigar
+problemas, aprender continuamente e ajudar pessoas.
 
-## 🎬 Séries e Filmes Favoritos
+Atualmente, venho desenvolvendo minha base em programação por meio de
+estudos, exercícios e projetos acadêmicos e pessoais. Meu objetivo é
+evoluir como desenvolvedor, construir soluções úteis e transformar
+conhecimento em projetos reais.
 
-📺 Séries:
+-   🎓 Formação em andamento: Engenharia da Computação e Análise e
+    Desenvolvimento de Sistemas
+-   💻 Interesses: desenvolvimento de software, lógica de programação e
+    tecnologia
+-   🧩 Aprendendo e praticando: Java, Python, JavaScript, HTML e CSS
+-   🐧 Ambiente de estudos: Linux e Visual Studio Code
+-   🎧 Fora do código: música, DJ, games e baseball
+-   📍 Brasil
 
-- <a href="https://www.imdb.com/title/tt0369179/">Two and a Half Men</a>
-- <a href="https://www.imdb.com/title/tt0904208/">Californication</a>
-- <a href="https://www.imdb.com/title/tt0141842/">The Sopranos</a>
-- <a href="https://www.imdb.com/title/tt0460681/">Supernatural</a>
-- <a href="https://www.imdb.com/title/tt0487831/">The IT Crowd</a>
+------------------------------------------------------------------------
 
-🎥 Filmes:
+## 🚀 Projetos e estudos
 
-- <a href="https://www.imdb.com/title/tt0068646/">The Godfather</a>
-- <a href="https://www.imdb.com/title/tt0076759/">Star Wars</a>
-- <a href="https://www.imdb.com/title/tt0055630/">Por um Punhado de Dólares</a>
-- <a href="https://www.imdb.com/title/tt0064116/">Por Uns Dólares a Mais</a>
-- <a href="https://www.imdb.com/title/tt0065126/">Três Homens em Conflito</a>
-- <a href="https://www.imdb.com/title/tt0096895/">Batman</a>
-- <a href="https://www.imdb.com/title/tt0477348/">Onde os Fracos Não Têm Vez</a>
-- <a href="https://www.imdb.com/title/tt0117571/">Pânico</a>
+Aqui estão alguns repositórios que fazem parte da minha jornada de
+aprendizado:
 
----
+  -------------------------------------------------------------------------------------------------------------
+  Repositório                                                   Descrição               Tecnologias
+  ------------------------------------------------------------- ----------------------- -----------------------
+  [Desafios-beecr](https://github.com/Samoody/Desafios-beecr)   Resolução de exercícios Python
+                                                                e desafios de lógica de 
+                                                                programação             
 
-## 🚀 Projetos em destaque
+  [faculdade-algo](https://github.com/Samoody/faculdade-algo)   Atividades e estudos de Algoritmos
+                                                                algoritmos              
 
-| Projeto | Tecnologias |
-|-------|-------------|
-| Sistema de Controle de Estoque | Java • MySQL |
-| API Caixa Eletrônico | Python |
-| Gerador de Relatórios Automáticos | Python |
-| Portfólio Web | HTML • CSS • JavaScript |
+  [javaalgoritmo](https://github.com/Samoody/javaalgoritmo)     Exercícios e atividades Java
+                                                                desenvolvidos durante   
+                                                                os estudos              
 
----
+  [Faculdade](https://github.com/Samoody/Faculdade)             Materiais e trabalhos   Computação
+                                                                acadêmicos              
+  -------------------------------------------------------------------------------------------------------------
 
-## 🛠️ Tecnologias
+> Estou organizando e atualizando meus repositórios conforme avanço nos
+> estudos. Novos projetos serão adicionados por aqui.
 
-### Backend
+------------------------------------------------------------------------
 
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+## 🛠️ Tecnologias e ferramentas
 
-### Frontend
+### Linguagens e desenvolvimento
 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" alt="Java, Python, JavaScript, HTML e CSS"/>`{=html}
+```{=html}
+</p>
+```
+### Banco de dados e ferramentas
 
-### Banco de dados
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" alt="MySQL, Git, GitHub, VS Code e Linux"/>`{=html}
+```{=html}
+</p>
+```
+*Tecnologias em estudo e prática --- o nível de experiência varia
+conforme cada ferramenta.*
 
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+------------------------------------------------------------------------
 
-### Ferramentas
+## 📚 No que estou focado
 
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+-   Fortalecer lógica de programação e resolução de problemas.
+-   Praticar orientação a objetos e estruturas de dados.
+-   Desenvolver páginas e projetos com HTML, CSS e JavaScript.
+-   Evoluir em Java e Python por meio de exercícios e projetos.
+-   Aprender boas práticas, organização de código e versionamento com
+    Git.
 
----
+------------------------------------------------------------------------
 
-## 🖥 Hacker Terminal
+## 📊 GitHub
 
-<div align="center">
-<img alt="Hacker Terminal" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="700"/>
-</div>
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=Samoody&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samoody&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>`{=html}
 
----
+`<br/>`{=html}
 
-## 🧠 Linguagens mais usadas
+`<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samoody&theme=github-compact&hide_border=true" alt="Gráfico de atividade do GitHub"/>`{=html}
+:::
 
-<div align="center">
+------------------------------------------------------------------------
 
-<img height="180em" alt="Linguagens mais usadas" src="https://helio-github-stats.vercel.app/api/top-langs/?username=samoody&layout=compact&theme=dark&hide_border=true&langs_count=8&locale=pt-br"/>
+## 🐍 Minhas contribuições
 
-</div>
+::: {align="center"}
+`<img src="https://raw.githubusercontent.com/Samoody/Samoody/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" width="100%"/>`{=html}
+:::
 
-<!-- Backup, se a instância acima cair: use esta linha no lugar da imagem -->
-<!-- <img height="180em" alt="Linguagens mais usadas" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samoody&theme=github_dark"/> -->
+------------------------------------------------------------------------
 
----
+## 🎮 Interesses pessoais
 
-## ⚡ Developer Skills (Hacker Mode)
+Além da tecnologia, gosto de música e de atuar como DJ nas horas vagas.
+Também curto videogames, baseball, futebol e filmes e séries.
 
-<div align="center">
-<img alt="Skills" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Java+Developer;Python+Developer;Backend+Engineer;API+Developer;Database+Enthusiast;Linux+User;Elite+Hacker"/>
-</div>
+Algumas das minhas séries favoritas são *The IT Crowd*, *The Sopranos*,
+*Californication*, *Supernatural* e *Two and a Half Men*.
 
----
+------------------------------------------------------------------------
 
-## 🟢 Matrix Code
+## 📫 Vamos conversar?
 
-<div align="center">
-<img alt="Matrix Code" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" width="700"/>
-</div>
+Se quiser trocar ideias sobre tecnologia, programação ou projetos, entre
+em contato:
 
----
+-   **GitHub:** [@Samoody](https://github.com/Samoody)
+-   **LinkedIn:** [Samuel Moody](https://www.linkedin.com/in/samoody1)
+-   **E-mail:** <samuelmoody679@gmail.com>
 
-## 📈 GitHub Activity Graph
+::: {align="center"}
+*Obrigado pela visita! Estou sempre aprendendo e construindo algo novo.*
+🚀
 
-<div align="center">
-<img alt="Samoody's GitHub Activity Graph" src="./activity-graph.svg" width="100%"/>
-</div>
-
----
-
-## 💻 Live Coding
-
-<div align="center">
-<img alt="Live Coding" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="650"/>
-</div>
-
----
-
-## 🐍 Snake Contributions
-
-<div align="center">
-<img alt="Snake Contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<!-- Para usar a SUA cobrinha: rode o workflow "generate-snake-game-from-github-contribution-grid"
-     e depois troque a src acima por:
-     https://raw.githubusercontent.com/samoody/samoody/main/output/github-contribution-grid-snake.svg -->
-
----
-
-## 🌐 Contatos
-
-<div align="center">
-
-<a href="https://github.com/samoody">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:samuelmoody679@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/samoody1">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://wa.me/5531993938538">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<!-- Visitor badge azul -->
-<img alt="Visitantes" src="https://komarev.com/ghpvc/?username=samoody&style=for-the-badge&color=blue"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" alt="GitHub Stats" src="https://helio-github-stats.vercel.app/api?username=samoody&show_icons=true&theme=dark&locale=pt-br&rank_icon=percentile"/>
-<img height="165em" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=samoody&theme=dark&locale=pt_BR"/>
-
-</div>
-
-<!-- Backup, se a instância acima cair: use esta linha no lugar do card de Stats -->
-<!-- <img height="165em" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samoody&theme=github_dark"/> -->
-
----
-
-## 📌 Resumo do perfil
-
-<div align="center">
-
-<img width="100%" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samoody&theme=github_dark"/>
-
-<br/>
-
-<img height="180em" alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samoody&theme=github_dark"/>
-<img height="180em" alt="Commits por hora do dia" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samoody&theme=github_dark&utcOffset=-3"/>
-
-</div>
-
----
-
-## ⏱️ WakaTime
-
-<div align="center">
-
-<img alt="WakaTime Stats" src="https://helio-github-stats.vercel.app/api/wakatime?username=Samoody&theme=dark&langs_count=12&locale=pt-br"/>
-
-</div>
-
-<!-- Backup, se a instância acima cair: use esta linha no lugar do card -->
-<!-- <img alt="WakaTime Stats" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=Samoody&theme=dark&langs_count=12"/> -->
-
----
-
-## 🎧 Spotify
-
-<details open>
-<summary>
-<img height="20" alt="Spotify" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/>
-&nbsp; Sam Moody's Spotify Data
-</summary>
-
-<br/>
-
-<div align="center">
-
-<img alt="Spotify Recently Played" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=isamoody&amp;count=10&amp;width=540&amp;radius=40&amp;unique=1&amp;duration=1&amp;album=1&amp;footer=wave" width="540"/>
-
-</div>
-
-</details>
-
-<!-- Backup, se o card acima cair: use esta linha no lugar dele -->
-<!-- <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=isamoody&count=10" width="600"/> -->
-
----
-
-## 🎵 Música em destaque
-
-<details open>
-<summary>:headphones: :guitar: :drum:</summary>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">
-<img alt="Charlie Brown Jr. - Céu Azul (Ao Vivo - Chegou Quem Faltava)" src="https://i.ytimg.com/vi/0dLX40UMUKo/maxresdefault.jpg" width="500"/>
-</a>
-
-<br/><br/>
-
-🎸 **Charlie Brown Jr. — Céu Azul** •
-<a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">▶ Assistir ao vivo (toca aqui no GitHub)</a> •
-<a href="https://www.youtube.com/watch?v=0dLX40UMUKo">Clipe oficial no YouTube</a>
-
-</div>
-
-</details>
-
----
-
-## 📈 Métricas do perfil
-
-<div align="center">
-
-<img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!"/>
-
-<br/><br/>
-
-<img alt="Seguidores" src="https://img.shields.io/github/followers/samoody?style=social"/>
-<img alt="Estrelas" src="https://img.shields.io/github/stars/samoody?style=social"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/samoody/samoody?logo=git"/>
-
-<br/><br/>
-
-<a href="https://samoody.github.io/pix20.png" target="_blank">
-<img alt="Buy me a coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/>
-</a>
-
-</div>
+`<img src="https://komarev.com/ghpvc/?username=Samoody&style=flat-square&color=brightgreen" alt="Contador de visitas"/>`{=html}
+:::
